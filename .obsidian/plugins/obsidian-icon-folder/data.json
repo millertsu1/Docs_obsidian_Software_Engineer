@@ -1,0 +1,90 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiFolder",
+      "LiEye",
+      "LiMountain",
+      "LiPen",
+      "LiTarget"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "VirtualSpace/Roadmap_WebDev/Courses/Django/Django.md": "LiCode",
+  "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Typescript.md": "LiCode",
+  "VirtualSpace/Roadmap_WebDev/Courses/Django": "LiFolder",
+  "VirtualSpace/Roadmap_WebDev/Courses/TypeScript": "LiFolder",
+  "VirtualSpace/Roadmap_WebDev/Courses": {
+    "iconName": "LiFolders",
+    "iconColor": "#225f02"
+  },
+  "VirtualSpace/Roadmap_WebDev/Books_programming": {
+    "iconName": "LiBookMinus",
+    "iconColor": "#01118e"
+  },
+  "VirtualSpace/Roadmap_WebDev/Articles_programming": "LiFileSpreadsheet",
+  "VirtualSpace/Roadmap_WebDev/Errors_programming": {
+    "iconName": "LiXCircle",
+    "iconColor": "#ffb005"
+  },
+  "VirtualSpace/Roadmap_WebDev/Exercises_programming": {
+    "iconName": "LiFileCode",
+    "iconColor": "#04ddec"
+  },
+  "VirtualSpace/Roadmap_WebDev/Projects_programming": {
+    "iconName": "LiPackageSearch",
+    "iconColor": "#c9ff05"
+  },
+  "Excalidraw": {
+    "iconName": "LiPen",
+    "iconColor": "#f5ed0a"
+  },
+  "Excalidraw/Serializers sintaxis.md": "LiPen",
+  "VirtualSpace/Roadmap_WebDev/Articles_programming/10 usos de la AI para aprender programacion.md": "LiEye",
+  "VirtualSpace/Roadmap_WebDev/Articles_programming/Cómo aprender a aprender.md": "LiEye",
+  "VirtualSpace/Roadmap_WebDev/Articles_programming/Definición de prioridades, desarrollo web e inglés..md": "LiEye",
+  "VirtualSpace": {
+    "iconName": "LiMountain",
+    "iconColor": "#d7f207"
+  },
+  "VirtualSpace/Roadmap_WebDev/Articles_programming/El Manual del Freelancer Principiante..md": "LiEye",
+  "VirtualSpace/Roadmap_WebDev": {
+    "iconName": "LiTarget",
+    "iconColor": "#f00000"
+  },
+  "VirtualSpace/Roadmap_WebDev/Articles_programming/Como trabajar con un Repositorio Remoto de Django.md": "LiEye",
+  "Excalidraw/Vistas en Django.md": "LiPen",
+  "Excalidraw/Primeros pasos.md": "LiPen",
+  "VirtualSpace/Roadmap_WebDev/Articles_programming/Proyectos para practicar Django.md": "LiEye",
+  "VirtualSpace/Roadmap_WebDev/Articles_programming/medir clics en botones con GTM y GA4.md": "LiEye",
+  "VirtualSpace/Roadmap_WebDev/Articles_programming/Instructivo técnico control de Despliegues a Producción.md": "LiEye",
+  "VirtualSpace/Roadmap_WebDev/Articles_programming/Type Assertions (aserciones de tipo) en TS.md": "LiEye",
+  "VirtualSpace/Roadmap_WebDev/Courses/Docker": "LiFolder",
+  "VirtualSpace/Roadmap_WebDev/Articles_programming/Microservicios roadmap.md": "LiEye",
+  "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado": "LiFolder",
+  "VirtualSpace/Roadmap_WebDev/Articles_programming/Roadmap Fullstack Dev.md": "LiBone"
+}

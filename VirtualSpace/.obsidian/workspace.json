@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "af4801ab990faaba",
+    "type": "split",
+    "children": [
+      {
+        "id": "5db0394f43b5a84e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4650b3b46636339d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap_WebDev/Roadmap Fullstack Dev.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roadmap Fullstack Dev"
+            }
+          },
+          {
+            "id": "b5705ed1accb724a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap_WebDev/Presentations_programming/index presentations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index presentations"
+            }
+          },
+          {
+            "id": "0068cd7e8e87094d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1760684be4f86cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e40a8ffa48ded06d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f17cf1c284d0e7b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8904670237a925eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#links",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "05c15b16b406d1cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "21a610793ce7b3b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5685a0b7b053a32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2cd349241014692",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "El Manual del Freelancer Principiante..md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for El Manual del Freelancer Principiante."
+            }
+          },
+          {
+            "id": "65c43042808cae65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Roadmap_WebDev/Articles_programming/index articles.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index articles"
+            }
+          },
+          {
+            "id": "ec5d8d5f9e978f65",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bf5b6662a7510ed1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "El Manual del Freelancer Principiante..md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of El Manual del Freelancer Principiante."
+            }
+          },
+          {
+            "id": "8a9dce8b42616595",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "0068cd7e8e87094d",
+  "lastOpenFiles": [
+    "index Examples.md",
+    "Roadmap_WebDev/Presentations_programming/index presentations.md",
+    "Roadmap_WebDev/Roadmap Fullstack Dev.md",
+    "Roadmap_WebDev/Articles_programming/index articles.md",
+    "Roadmap_WebDev/Errors_programming/TypeError-Crypto.md",
+    "El Manual del Freelancer Principiante..md",
+    "Roadmap_WebDev/Projects_programming/index projects.md",
+    "Roadmap_WebDev/Errors_programming/index Errors.md",
+    "Roadmap_WebDev/Presentations_programming",
+    "Roadmap_WebDev/Books_programming",
+    "Roadmap_WebDev/Projects_programming",
+    "Roadmap_WebDev/Articles_programming",
+    "Roadmap_WebDev/Exercises_programming",
+    "Examples_programming/index Examples.md",
+    "Examples_programming",
+    "Errors_programming.md",
+    "Roadmap_WebDev",
+    "TU_ENLACE_AQUI.md",
+    "Roadmap_WebDev/Articles_programming/Cómo aprender a aprender.md",
+    "Roadmap_WebDev/Articles_programming/10 usos de la AI para aprender programacion.md",
+    "Roadmap_WebDev/Errors_programming",
+    "Roadmap_WebDev/Articles_programming/Definición de prioridades, desarrollo web e inglés..md",
+    "Programming/Programming - Study.md",
+    "Programming",
+    "English/English - Study.md",
+    "English",
+    "Untitled.canvas",
+    "2025-06-30.md",
+    "Excalidraw/no.md",
+    "Excalidraw/Drawing 2025-06-30 21.10.18.excalidraw.md",
+    "Welcome.md"
+  ]
+}
