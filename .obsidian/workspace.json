@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "fcd366e178fe9808",
@@ -165,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,18 +183,19 @@
   },
   "active": "d55a3cc7b3ae3fea",
   "lastOpenFiles": [
+    "multimedia",
     "VirtualSpace/Roadmap_WebDev/Courses/Docker/1. Docker pasos iniciales.md",
     "Excalidraw/Primeros pasos.md",
-    "docker-compose.yml.png",
-    "Dockerfile.png",
-    "docker-compose para unir dos servicios web.png",
-    "estructura de microservicios.png",
-    "lista de dependencias con pip list.png",
-    "pip list VS pip freeze.png",
-    "Primeros pasos con Django.png",
-    "runserver command.png",
-    "Serializers sintaxis.png",
-    "Vistas en Django.png",
+    "multimedia/docker-compose.yml.png",
+    "multimedia/Dockerfile.png",
+    "multimedia/docker-compose para unir dos servicios web.png",
+    "multimedia/estructura de microservicios.png",
+    "multimedia/lista de dependencias con pip list.png",
+    "multimedia/pip list VS pip freeze.png",
+    "multimedia/Primeros pasos con Django.png",
+    "multimedia/runserver command.png",
+    "multimedia/Serializers sintaxis.png",
+    "multimedia/Vistas en Django.png",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Roadmap Fullstack Dev.md",
     "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Typescript.md",
     "Excalidraw/Vistas en Django.md",
