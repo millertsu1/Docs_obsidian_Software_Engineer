@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases/clase1 dockerfile-docker Compose.md",
+                "file": "VirtualSpace/Roadmap_WebDev/Errors_programming/ERRORS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "clase1 dockerfile-docker Compose"
+              "title": "ERRORS"
             }
           }
         ],
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,9 +197,9 @@
   },
   "active": "57fb67aba683da48",
   "lastOpenFiles": [
-    "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/1. Microservicios.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases/clase1 dockerfile-docker Compose.md",
+    "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases",
     "multimedia",
     "VirtualSpace/Roadmap_WebDev/Courses/Docker/1. Docker pasos iniciales.md",
     "Excalidraw/Primeros pasos.md",
@@ -240,7 +241,6 @@
     "VirtualSpace/VirtualSpace/Roadmap_WebDev",
     "VirtualSpace/VirtualSpace",
     "VirtualSpace/Roadmap_WebDev/Courses/TypeScript",
-    "VirtualSpace/Roadmap_WebDev/Courses/Django",
-    "VirtualSpace/Excalidraw"
+    "VirtualSpace/Roadmap_WebDev/Courses/Django"
   ]
 }

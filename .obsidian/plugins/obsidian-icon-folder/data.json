@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiImages",
       "LiFolder",
       "LiEye",
       "LiMountain",
-      "LiPen",
-      "LiTarget"
+      "LiPen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -86,5 +86,9 @@
   "VirtualSpace/Roadmap_WebDev/Courses/Docker": "LiFolder",
   "VirtualSpace/Roadmap_WebDev/Articles_programming/Microservicios roadmap.md": "LiEye",
   "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado": "LiFolder",
-  "VirtualSpace/Roadmap_WebDev/Articles_programming/Roadmap Fullstack Dev.md": "LiBone"
+  "VirtualSpace/Roadmap_WebDev/Articles_programming/Roadmap Fullstack Dev.md": "LiBone",
+  "multimedia": {
+    "iconName": "LiImages",
+    "iconColor": "#10b6e0"
+  }
 }
