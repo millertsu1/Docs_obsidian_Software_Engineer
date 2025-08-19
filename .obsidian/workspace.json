@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Errors_programming/ERRORS.md",
+                "file": "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/1. Microservicios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ERRORS"
+              "title": "1. Microservicios"
+            }
+          },
+          {
+            "id": "85a46c03d96cf3ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VirtualSpace/Roadmap_WebDev/Projects_programming/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,9 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57fb67aba683da48",
+  "active": "c33cd5fd7baa9c41",
   "lastOpenFiles": [
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/1. Microservicios.md",
+    "VirtualSpace/Roadmap_WebDev/Projects_programming/Untitled.md",
+    "VirtualSpace/Roadmap_WebDev/Errors_programming/ERRORS.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases/clase1 dockerfile-docker Compose.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases",
     "multimedia",
@@ -232,7 +248,6 @@
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Cómo aprender a aprender.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/10 usos de la AI para aprender programacion.md",
     "index Errors.md",
-    "VirtualSpace/Roadmap_WebDev/Errors_programming/ERRORS.md",
     "Pasted image 20250804193206.png.md",
     "Pasted image 20250804192044.png.md",
     "VirtualSpace/Roadmap_WebDev/Courses/index courses.md",
