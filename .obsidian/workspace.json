@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Projects_programming/Untitled.md",
+                "file": "VirtualSpace/Roadmap_WebDev/Projects_programming/Paso a Paso Guía para Containerizar tu Aplicación Django.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Paso a Paso Guía para Containerizar tu Aplicación Django"
             }
           }
         ],
@@ -185,8 +185,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -194,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,10 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c33cd5fd7baa9c41",
+  "active": "85a46c03d96cf3ba",
   "lastOpenFiles": [
+    "multimedia/dockerfile del proyecto.png",
+    "VirtualSpace/Roadmap_WebDev/Projects_programming/Paso a Paso Guía para Containerizar tu Aplicación Django.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/1. Microservicios.md",
-    "VirtualSpace/Roadmap_WebDev/Projects_programming/Untitled.md",
     "VirtualSpace/Roadmap_WebDev/Errors_programming/ERRORS.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases/clase1 dockerfile-docker Compose.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases",
@@ -228,7 +228,6 @@
     "multimedia/Primeros pasos con Django.png",
     "multimedia/runserver command.png",
     "multimedia/Serializers sintaxis.png",
-    "multimedia/Vistas en Django.png",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Roadmap Fullstack Dev.md",
     "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Typescript.md",
     "Excalidraw/Vistas en Django.md",
@@ -251,7 +250,6 @@
     "Pasted image 20250804193206.png.md",
     "Pasted image 20250804192044.png.md",
     "VirtualSpace/Roadmap_WebDev/Courses/index courses.md",
-    "index articles.md",
     "VirtualSpace/VirtualSpace/Roadmap_WebDev/Courses",
     "VirtualSpace/VirtualSpace/Roadmap_WebDev",
     "VirtualSpace/VirtualSpace",
