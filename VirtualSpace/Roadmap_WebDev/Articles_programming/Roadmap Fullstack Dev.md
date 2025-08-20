@@ -25,6 +25,7 @@ El camino mas seguro para poder iniciarse en el Desarrollo es conocer las bases,
 1. [Curso de JavaScript I bases del lenguaje](https://docs.google.com/presentation/d/1LEYvR1NrBk-Nb2o9SeUuav7O58xrpPtFjmwoBQU0uz0/edit?usp=sharing)
 2. [JavaScript II - Programación Orientada a Objetos](https://docs.google.com/presentation/d/11cfX96vYBHHAyWttaic6uKDZt8VVMHi8hHZxu3zKg08/edit?usp=sharing)
 3. [JavaScript III para interactuar con el DOM](https://docs.google.com/presentation/d/19pUjc5004jiMzWljmhLgFonK9L58thZyb6gnzxNM4wg/edit?usp=sharing)
+4. [JavaScript camino a React](https://docs.google.com/presentation/d/1bxTdEJU93Rc910xn36u453Tfq6E2FGW5oTEL0-6YOEw/edit?usp=sharing)
 
 ### TypeScript lenguaje de tipado, para hacer mas segura nuestra web - En construcción
 
