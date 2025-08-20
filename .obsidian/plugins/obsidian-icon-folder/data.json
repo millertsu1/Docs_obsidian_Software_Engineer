@@ -90,5 +90,9 @@
   "multimedia": {
     "iconName": "LiImages",
     "iconColor": "#10b6e0"
+  },
+  "VirtualSpace/Roadmap_WebDev/Courses/JavaScript": {
+    "iconName": "LiFolder",
+    "iconColor": "#c7e76e"
   }
 }
