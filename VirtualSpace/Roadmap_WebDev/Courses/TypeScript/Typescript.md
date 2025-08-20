@@ -2,7 +2,27 @@
 
 ### 📺[Conceptos Iniciales de TypeScript](https://docs.google.com/presentation/d/1m5HRJzak6AX4W1Oj0oPIvibWq0RQNFHHKCsUuHxSmlo/edit?usp=sharing)
 
-##
+## Tipos básicos en TypeScript
+
+Se dividen en primitivos, compuestos y avanzados, muy similar a la clasificación de  de JavaScript, veamos el desglose de los mismos:
+
+- Tipos primitivos: son los tipos mas básicos derivados del lenguaje raíz que se usan en JavaScript, allí tenemos los siguientes: 
+	- String, que representan cadenas de texto
+	- Number, que representan números enteros y decimales(flotantes)
+	- Boolean, que representan valores booleanos de falso o verdadero.
+	- Null,  valores ausentes.
+	- Undefined, variables iniciadas o no.
+	- Biginit, para representar números muy grandes.
+	- Symbol, para representar valores únicos.
+
+- Tipos de datos compuestos, se componen de los primitivos y nos permiten agrupar tipos en una estructura mas flexible.
+	- Arrays, para representar arreglos como listas de valores agrupados
+	- Tuplas, para representar estructuras como listas, pero que no se pueden cambiar.
+	- Enums, permiten definir conjuntos de valores predefinidos con nombre legibles.
+- Tipod de datos avanzados 
+	- Any, tipo para evitar restricciones, que pierden el beneficio del tipado.
+	- Unknown, como Any pero requiere validacion.
+	- Union Types, permite multiples tipos, se puede interpretar como caracteris
 ## Booleans
 
 En TypeScript, al igual que en JavaScript y la mayoría de los lenguajes de programación, el tipo de dato **booleano** (`boolean`) se utiliza para representar valores de verdad o falsedad. Solo tiene dos posibles valores: `true` (verdadero) y `false` (falso).
