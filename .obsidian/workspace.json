@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Django"
             }
+          },
+          {
+            "id": "760393ff5ad6702d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,13 +182,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Courses/Django/Django.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Django"
+              "title": "Outline"
             }
           },
           {
@@ -185,8 +196,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -198,6 +209,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -208,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05c43705c6a6a697",
+  "active": "760393ff5ad6702d",
   "lastOpenFiles": [
     "VirtualSpace/Roadmap_WebDev/Projects_programming/Paso a Paso Guía para Containerizar tu Aplicación Django.md",
     "multimedia/dockerfile del proyecto.png",
