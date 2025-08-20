@@ -25,14 +25,12 @@
             "id": "85a46c03d96cf3ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "audio",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Typescript.md",
-                "mode": "source",
-                "source": false
+                "file": "multimedia/Mide tu Éxito SEO Real_ Del _Creo que Vamos Bien_ a Métricas Claras con Looker Studio, GSC y GA4.mp3"
               },
-              "icon": "lucide-file",
-              "title": "Typescript"
+              "icon": "lucide-file-audio",
+              "title": "Mide tu Éxito SEO Real_ Del _Creo que Vamos Bien_ a Métricas Claras con Looker Studio, GSC y GA4"
             }
           },
           {
@@ -170,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Typescript.md",
+                "file": "multimedia/Mide tu Éxito SEO Real_ Del _Creo que Vamos Bien_ a Métricas Claras con Looker Studio, GSC y GA4.mp3",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Typescript"
+              "title": "Outline of Mide tu Éxito SEO Real_ Del _Creo que Vamos Bien_ a Métricas Claras con Looker Studio, GSC y GA4"
             }
           },
           {
@@ -211,8 +209,9 @@
   },
   "active": "85a46c03d96cf3ba",
   "lastOpenFiles": [
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/Roadmap Fullstack Dev.md",
     "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Typescript.md",
+    "multimedia/Mide tu Éxito SEO Real_ Del _Creo que Vamos Bien_ a Métricas Claras con Looker Studio, GSC y GA4.mp3",
+    "VirtualSpace/Roadmap_WebDev/Articles_programming/Roadmap Fullstack Dev.md",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/Javascript camino a React.md",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript",
     "VirtualSpace/Roadmap_WebDev/Courses/Django/Django.md",
@@ -252,10 +251,8 @@
     "index Errors.md",
     "Pasted image 20250804193206.png.md",
     "Pasted image 20250804192044.png.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/index courses.md",
     "VirtualSpace/VirtualSpace/Roadmap_WebDev/Courses",
     "VirtualSpace/VirtualSpace/Roadmap_WebDev",
-    "VirtualSpace/VirtualSpace",
-    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript"
+    "VirtualSpace/VirtualSpace"
   ]
 }
