@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "85a46c03d96cf3ba",
-            "type": "leaf",
-            "state": {
-              "type": "audio",
-              "state": {
-                "file": "multimedia/Mide tu Éxito SEO Real_ Del _Creo que Vamos Bien_ a Métricas Claras con Looker Studio, GSC y GA4.mp3"
-              },
-              "icon": "lucide-file-audio",
-              "title": "Mide tu Éxito SEO Real_ Del _Creo que Vamos Bien_ a Métricas Claras con Looker Studio, GSC y GA4"
-            }
-          },
-          {
             "id": "f5d992c0b0039405",
             "type": "leaf",
             "state": {
@@ -168,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "multimedia/Mide tu Éxito SEO Real_ Del _Creo que Vamos Bien_ a Métricas Claras con Looker Studio, GSC y GA4.mp3",
+                "file": "VirtualSpace/Roadmap_WebDev/Articles_programming/Roadmap Fullstack Dev.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mide tu Éxito SEO Real_ Del _Creo que Vamos Bien_ a Métricas Claras con Looker Studio, GSC y GA4"
+              "title": "Outline of Roadmap Fullstack Dev"
             }
           },
           {
@@ -207,17 +195,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85a46c03d96cf3ba",
+  "active": "f5d992c0b0039405",
   "lastOpenFiles": [
-    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Typescript.md",
+    "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/1. Microservicios.md",
     "multimedia/Mide tu Éxito SEO Real_ Del _Creo que Vamos Bien_ a Métricas Claras con Looker Studio, GSC y GA4.mp3",
+    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Typescript.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Roadmap Fullstack Dev.md",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/Javascript camino a React.md",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript",
     "VirtualSpace/Roadmap_WebDev/Courses/Django/Django.md",
     "VirtualSpace/Roadmap_WebDev/Projects_programming/Paso a Paso Guía para Containerizar tu Aplicación Django.md",
     "multimedia/dockerfile del proyecto.png",
-    "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/1. Microservicios.md",
     "VirtualSpace/Roadmap_WebDev/Errors_programming/ERRORS.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases/clase1 dockerfile-docker Compose.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases",
