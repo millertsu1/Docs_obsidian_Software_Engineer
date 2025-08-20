@@ -1,6 +1,8 @@
 #Learning 
 
 ### 📺[Conceptos Iniciales de TypeScript](https://docs.google.com/presentation/d/1m5HRJzak6AX4W1Oj0oPIvibWq0RQNFHHKCsUuHxSmlo/edit?usp=sharing)
+
+##
 ## Booleans
 
 En TypeScript, al igual que en JavaScript y la mayoría de los lenguajes de programación, el tipo de dato **booleano** (`boolean`) se utiliza para representar valores de verdad o falsedad. Solo tiene dos posibles valores: `true` (verdadero) y `false` (falso).
