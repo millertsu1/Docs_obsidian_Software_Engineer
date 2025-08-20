@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Articles_programming/Roadmap Fullstack Dev.md",
+                "file": "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/Javascript camino a React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roadmap Fullstack Dev"
+              "title": "Javascript camino a React"
             }
           }
         ],
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Articles_programming/Roadmap Fullstack Dev.md",
+                "file": "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/Javascript camino a React.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Roadmap Fullstack Dev"
+              "title": "Outline of Javascript camino a React"
             }
           },
           {
@@ -197,10 +197,10 @@
   },
   "active": "f5d992c0b0039405",
   "lastOpenFiles": [
+    "VirtualSpace/Roadmap_WebDev/Articles_programming/Roadmap Fullstack Dev.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/1. Microservicios.md",
     "multimedia/Mide tu Éxito SEO Real_ Del _Creo que Vamos Bien_ a Métricas Claras con Looker Studio, GSC y GA4.mp3",
     "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Typescript.md",
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/Roadmap Fullstack Dev.md",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/Javascript camino a React.md",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript",
     "VirtualSpace/Roadmap_WebDev/Courses/Django/Django.md",
