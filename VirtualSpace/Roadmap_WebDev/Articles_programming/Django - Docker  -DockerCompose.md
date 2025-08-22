@@ -58,31 +58,7 @@ CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
 
 2. **Crea el `docker-compose.yml`**: Este archivo coordina el servicio de tu API y el de la base de datos de PostgreSQL.
 
-```
-version: '3.8'
-services:
-  api:
-    build: ./api
-    ports:
-        - "8000:8000"
-    environment:
-          DATABASE_HOST: db
-          DATABASE_PORT: 5432
-          DATABASE_USER: root
-          DATABASE_PASSWORD: root
-          DATABASE_NAME: receipts
-    depends_on:
-          - db
-  db:
-    image: postgres:15
-    environment:
-        POSTGRES_USER: root
-        POSTGRES_PASSWORD: root
-        POSTGRES_DB: receipts
-    ports:
-	    - "5433:5432"
-```
-
+![[docker-compose services config.png]]
 
 ---
 
@@ -97,3 +73,11 @@ Finalmente, usamos Docker para arrancar la aplicación, crear los modelos y apli
 3. **Genera los archivos de migración**: `docker-compose exec api python manage.py makemigrations`
 
 4. **Aplica las migraciones a la base de datos**: `docker-compose exec api python manage.py migrate`
+
+#### Recordatorio
+
+Debemos tener en cuenta que la configuración de la base de datos debe realizarse en el archivo settings del proyecto de Django porque allí esta la configuración de conexión a la nueva base de datos que usaremos que sera Postgres cambiando la que viene por defecto que es SQLite. La configuración debería verse así:
+
+![[DB Postgres en Django settings.png]]
+>*Esta configuración debe concordar con el servicio que queremos levantar del archivo  `docker-compose`*
+

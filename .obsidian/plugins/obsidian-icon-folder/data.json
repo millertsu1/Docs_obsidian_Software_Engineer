@@ -94,5 +94,9 @@
   "VirtualSpace/Roadmap_WebDev/Courses/JavaScript": {
     "iconName": "LiFolder",
     "iconColor": "#c7e76e"
+  },
+  "VirtualSpace/Roadmap_WebDev/Articles_programming/Django - Docker  -DockerCompose.md": {
+    "iconName": "LiEye",
+    "iconColor": "#0aeb42"
   }
 }
