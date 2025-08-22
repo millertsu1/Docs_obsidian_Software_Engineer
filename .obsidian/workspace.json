@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Articles_programming/Django - Docker  -DockerCompose.md",
+                "file": "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Django - Docker  -DockerCompose"
+              "title": "API con DRF, Docker y NextJS"
             }
           }
         ]
@@ -180,11 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c33cd5fd7baa9c41",
+  "active": "890d11ac3de843e9",
   "lastOpenFiles": [
     "multimedia/docker-compose services config.png",
     "multimedia/DB Postgres en Django settings.png",
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/Django - Docker  -DockerCompose.md",
+    "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Type Assertions (aserciones de tipo) en TS.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Roadmap Fullstack Dev.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Proyectos para practicar Django.md",
