@@ -81,6 +81,8 @@ Debemos tener en cuenta que la configuración de la base de datos debe realizars
 ![[DB Postgres en Django settings.png]]
 >*Esta configuración debe concordar con el servicio que queremos levantar del archivo  `docker-compose`*
 
+---
+
 ### **Paso 4 Construyendo el API con DRF**
 
 1. **Instalamos Django Rest Framework
