@@ -180,11 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "890d11ac3de843e9",
+  "active": "c33cd5fd7baa9c41",
   "lastOpenFiles": [
+    "multimedia/URLs de la aplicacion.png",
+    "multimedia/URLs del proyecto.png",
+    "multimedia/construyendo el viewSet.png",
+    "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
+    "multimedia/estructura del serializador.png",
     "multimedia/docker-compose services config.png",
     "multimedia/DB Postgres en Django settings.png",
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Type Assertions (aserciones de tipo) en TS.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Roadmap Fullstack Dev.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Proyectos para practicar Django.md",
@@ -214,10 +218,6 @@
     "multimedia/Dockerfile.png",
     "multimedia/docker-compose para unir dos servicios web.png",
     "multimedia/estructura de microservicios.png",
-    "multimedia/lista de dependencias con pip list.png",
-    "multimedia/pip list VS pip freeze.png",
-    "multimedia/Primeros pasos con Django.png",
-    "multimedia/runserver command.png",
     "Excalidraw/Vistas en Django.md",
     "Excalidraw/Serializers sintaxis.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado",

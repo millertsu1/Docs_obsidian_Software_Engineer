@@ -83,9 +83,26 @@ Debemos tener en cuenta que la configuración de la base de datos debe realizars
 
 ### **Paso 4 Construyendo el API con DRF**
 
-1. Instalamos Django Rest Framework
+1. **Instalamos Django Rest Framework
 	- Instalamos la librería con el comando: `docker-compose exec api pip install djangorestframework`.
 	- Actualizamos el archivo `requirements.txt` con el comando `pip freeze > requirements.txt` para asegurarnos de que la librería esté siempre disponible.
 	- Reconstruimos el contenedor de la API con `docker-compose up --build`.
-2. configuración del proyecto
-	-Agregamos `'rest_framework'` a la lista `INSTALLED_APPS` en tu archivo `settings.py` para que Django cargue la librería.
+2. **configuración del proyecto
+	- Agregamos `'rest_framework'` a la lista `INSTALLED_APPS` en tu archivo `settings.py` para que Django cargue la librería.
+3. **Creamos el Serializador 
+	- Creamos un nuevo archivo llamado **`serializers.py`** dentro de tu aplicación `recetas`.
+	- En este archivo, creamos la clase `RecetaSerializer` que hereda de `serializers.ModelSerializer` para convertir tu modelo a formato JSON.
+
+![[estructura del serializador.png]]
+4. **Creamos el ViewSet
+	- En tu archivo **`views.py`**, creamos la clase `RecetaViewSet`.
+	- Configuramos esta clase con el `queryset` (todos los objetos de Receta) y el `serializer_class` (nuestro `RecetaSerializer`). Esto nos dio una vista completa para las operaciones de la API.
+
+![[construyendo el viewSet.png]]
+4. **Configuramos las URLs
+	- En tu archivo principal **`mi_proyecto_django/urls.py`**, configuramos un `router` para que Django genere automáticamente las URLs de la API.
+
+![[URLs del proyecto.png]]
+	- Creamos un nuevo archivo **`urls.py`** en tu aplicación `recetas` para manejar las rutas específicas del `ViewSet`.
+
+![[URLs de la aplicacion.png]]
