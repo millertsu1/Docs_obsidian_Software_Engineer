@@ -94,6 +94,9 @@ Debemos tener en cuenta que la configuración de la base de datos debe realizars
 	- En este archivo, creamos la clase `RecetaSerializer` que hereda de `serializers.ModelSerializer` para convertir tu modelo a formato JSON.
 
 ![[estructura del serializador.png]]
+
+#### [[Serializers sintaxis]]
+
 4. **Creamos el ViewSet
 	- En tu archivo **`views.py`**, creamos la clase `RecetaViewSet`.
 	- Configuramos esta clase con el `queryset` (todos los objetos de Receta) y el `serializer_class` (nuestro `RecetaSerializer`). Esto nos dio una vista completa para las operaciones de la API.

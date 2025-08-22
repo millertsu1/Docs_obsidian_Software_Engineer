@@ -20,8 +20,31 @@
               "icon": "lucide-file",
               "title": "API con DRF, Docker y NextJS"
             }
+          },
+          {
+            "id": "a893d912d2552ce5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Serializers sintaxis.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Serializers sintaxis"
+            }
+          },
+          {
+            "id": "f78aa2531c02a73c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,12 +203,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c33cd5fd7baa9c41",
+  "active": "f78aa2531c02a73c",
   "lastOpenFiles": [
+    "Excalidraw/Serializers sintaxis.md",
+    "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
     "multimedia/URLs de la aplicacion.png",
     "multimedia/URLs del proyecto.png",
     "multimedia/construyendo el viewSet.png",
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
     "multimedia/estructura del serializador.png",
     "multimedia/docker-compose services config.png",
     "multimedia/DB Postgres en Django settings.png",
@@ -217,9 +241,7 @@
     "multimedia/docker-compose.yml.png",
     "multimedia/Dockerfile.png",
     "multimedia/docker-compose para unir dos servicios web.png",
-    "multimedia/estructura de microservicios.png",
     "Excalidraw/Vistas en Django.md",
-    "Excalidraw/Serializers sintaxis.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado",
     "Docker",
     "VirtualSpace/Roadmap_WebDev/Courses/Docker",
