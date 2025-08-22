@@ -56,7 +56,7 @@ EXPOSE 8000
 CMD ["python", "manage.py", "runserver", "0.0.0.0:8000"]
 ```
 
-2. **Crea el `docker-compose.yml`**: Este archivo coordina el servicio de tu API y el de la base de datos de PostgreSQL.
+2. **Crea el `docker-compose.yml`**: Este archivo coordina el servicio de tu API y el de la base de datos de PostgreSQL. Tambien pueden agregarse mas servicios como una ambiente frontend con NextJS o React, si se desea.
 
 ![[docker-compose services config.png]]
 
