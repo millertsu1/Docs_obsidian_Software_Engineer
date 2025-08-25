@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
+                "file": "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API con DRF, Docker y NextJS"
+              "title": "JavaScript camino a React"
             }
           },
           {
@@ -208,9 +208,9 @@
   },
   "active": "890d11ac3de843e9",
   "lastOpenFiles": [
+    "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
     "Excalidraw/Serializers sintaxis.md",
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
     "multimedia/URLs de la aplicacion.png",
     "multimedia/URLs del proyecto.png",
     "multimedia/construyendo el viewSet.png",
