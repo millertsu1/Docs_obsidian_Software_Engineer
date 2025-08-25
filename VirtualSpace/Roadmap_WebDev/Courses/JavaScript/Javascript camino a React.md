@@ -1,9 +1,10 @@
 #Learning  #JavaScript #HowToDo 
 
 [**JavaScript camino a React**](https://docs.google.com/presentation/d/1bxTdEJU93Rc910xn36u453Tfq6E2FGW5oTEL0-6YOEw/edit?slide=id.g364916da781_0_1048#slide=id.g364916da781_0_1048) 
-[]()
+[**Repositorio curso JavaScript**](https://github.com/millertsu1/cursoJavascript)
 
-El camino a React puede parecer intimidante, sobre todo sin conocer el camino de que debes saber para aprender sobre JavaScript para dar el paso a React, en este mani-curso podrás aprender lo básico necesario para pasar a React sin presentar problemas.
+
+El camino a React puede parecer intimidante, sobre todo sin conocer a donde lleva ese camino. Que debes saber para aprender sobre JavaScript para dar el paso a React, en este mani-curso podrás aprender lo básico necesario para pasar a React sin presentar problemas.
 
 1. `módulos`: los módulos nos ayudan a conectar archivos en JavaScript , traer una funcionalidad hecha en otro archivo y llevarla a donde nosotros necesitemos, así pues al cambiar a React debemos tener en cuenta los módulos para comunicar funcionalidades entre componentes. En JavaScript, los módulos son una forma de dividir el código en partes mas pequeñas y manejables. Cada modulo puede tener su propio ámbito, lo que significa que las variables y funciones definidas en un modulo no interfieren con las de otros módulos a menos que se exporten e importen explícitamente.
 
