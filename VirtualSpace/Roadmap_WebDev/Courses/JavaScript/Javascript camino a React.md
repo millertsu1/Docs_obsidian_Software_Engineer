@@ -24,4 +24,38 @@ import sumar from './29.modulos.js'; // Importamos la funcion sumar desde el mod
 ```
 >Esta es la sintaxis que nosotros debemos usar para llamar la exportación. En este caso importamos la funcionalidad.
 
-En el caso de las importaciones nombradas la funcionalida
+En el caso de las importaciones nombradas la funcionalidad de importar y exportar es igual lo que cambia es la sintaxis al momento de exportar, ya que no solo usaremos una unica  función como en el anterior caso. Sino que podremos exportar las funcionalidades que queramos (mas de una)
+
+```javascript
+
+// Exportacion nombrada
+
+export function sumar2(a, b) {
+
+  return a + b;
+
+}
+
+export function restar(a, b) {
+
+  return a - b;
+
+}
+
+export function multiplicar(a, b) {
+
+  return a * b;
+
+}
+```
+>Hay 3 funciones que tiene la sintaxis de exportación nombrada al inicio de cada función agregamos la palabra export por cada función a usar el otro lugar de nuestro proyecto.
+
+```javascript
+
+import { sumar2, restar, multiplicar } from './29.modulos.js'; // Importamos las funciones sumar2, restar y multiplicar desde el modulo 29.modulos.js
+```
+> Aquí en el archivo donde vayamos a usar estas importaciones, llamamos a las funciones, pero nótese que las funciones a usar las ponemos dentro de llaves y separadas por comas. Asi es como se importan funcionalidades nombradas
+
+`Importante`: 
+- En React las importaciones por defecto son las mas usadas para trabajar con la separación de código, ya que cada componente debe cumplir con una funcionalidad.
+- No debemos usar combinaciones de exportacione
