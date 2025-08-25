@@ -58,7 +58,7 @@ export function multiplicar(a, b) {
 
 import { sumar2, restar, multiplicar } from './29.modulos.js'; // Importamos las funciones sumar2, restar y multiplicar desde el modulo 29.modulos.js
 ```
-> Aquí en el archivo donde vayamos a usar estas importaciones, llamamos a las funciones, pero nótese que las funciones a usar las ponemos dentro de llaves y separadas por comas. Asi es como se importan funcionalidades nombradas
+> Aquí en el archivo donde vayamos a usar estas importaciones, llamamos a las funciones, pero nótese que las funciones a usar las ponemos dentro de llaves y separadas por comas. Así es como se importan funcionalidades nombradas
 
 `Importante`: 
 - En React las importaciones por defecto son las mas usadas para trabajar con la separación de código, ya que cada componente debe cumplir con una funcionalidad.
