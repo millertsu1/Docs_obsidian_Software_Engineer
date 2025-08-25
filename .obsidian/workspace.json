@@ -47,8 +47,7 @@
               "title": "JavaScript camino a React"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,10 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f78aa2531c02a73c",
+  "active": "890d11ac3de843e9",
   "lastOpenFiles": [
-    "Excalidraw/Serializers sintaxis.md",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
+    "Excalidraw/Serializers sintaxis.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
     "multimedia/URLs de la aplicacion.png",
     "multimedia/URLs del proyecto.png",
