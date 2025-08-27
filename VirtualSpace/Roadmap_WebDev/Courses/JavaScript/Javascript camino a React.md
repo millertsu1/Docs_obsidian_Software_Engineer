@@ -108,4 +108,4 @@ console.log(carne)
 ```
 > Si notamos debemos usar la misma estructura de los arreglos, o sea los corchetes (paréntesis rectangulares).
 
-2. **Desestructuración de Objetos**: De la misma forma que en los arreglos la desestructuración en objetos funciona de la misma manera, pero aqui sacamos propiedades y metodos del objeto
+2. **Desestructuración de Objetos**: De la misma forma que en los arreglos la desestructuración en objetos funciona de la misma manera, pero aquí sacamos propiedades y metodos del objeto
