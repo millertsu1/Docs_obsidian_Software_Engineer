@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "JavaScript camino a React"
             }
+          },
+          {
+            "id": "1cde04010179d12d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "890d11ac3de843e9",
+  "active": "1cde04010179d12d",
   "lastOpenFiles": [
     "Excalidraw/Serializers sintaxis.md",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
