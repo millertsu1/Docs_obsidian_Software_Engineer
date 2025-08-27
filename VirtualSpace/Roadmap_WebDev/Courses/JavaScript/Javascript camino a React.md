@@ -77,13 +77,13 @@ Como lo mencionamos anteriormente  podemos usar la desestructuración para los o
 1. Desestructuración en Arreglos: imagina que tiene un arreglo que representa tu despensa  con muchos alimentos dentro(carne, arroz, huevos, verduras, pescado), ahora imagina que tienes que hacer una comida con algunos de estos alimentos que tienes en la despensa, solo algunos no todos. La desestructuración es como sacar estos alimentos de la despensa para usarlos para completar tu receta.
 
 ```javascript
-conts despensa = [carne, arroz, huevos, verduras, pescado]
+const despensa = [carne, arroz, huevos, verduras, pescado]
 ```
 > Al crear el arreglo de despensa, metemos todo en esa despensa, pero al ser una arreglo, no podemos usar individualmente cada alimento dentro en esa lista de alimentos, aunque en la programación podríamos usar otros métodos para desestructurar(sacar los que necesitemos), sin embargo la desestructuración nos evitar escribir mucho código para sacar lo que necesitemos. Veamos un ejemplo **sin desestructuración:
 
 ```javascript
 
-conts despensa = [carne, arroz, huevos, verduras, pescado]
+const despensa = [carne, arroz, huevos, verduras, pescado]
 
 let carne = despensa[0],
 
@@ -96,4 +96,14 @@ console.log(carne, arroz, huevos); >>> carne, arroz, huevos
 
 console.log('muestra los ingredientes fuera del array');
 ```
->Esta es una forma de sacar los elementos que componen el arreglo y usarlos independientemente como si fueran variables. La desestructuracion funciona de la misma forma pero de manera simplificada en Javascript
+>Esta es una forma de sacar los elementos que componen el arreglo y usarlos independientemente como si fueran variables. La desestructuración funciona de la misma forma pero de manera simplificada en JavaScript. Veamos un ejemplo de como simplificarlo un poco:
+
+```javascript
+
+const despensa = [carne, arroz, huevos, verduras, pescado] // este es el arreglo original
+
+const [carne, arroz, huevos] = despensa // con esta simple linea hemos 
+
+
+console.log(carne)
+```
