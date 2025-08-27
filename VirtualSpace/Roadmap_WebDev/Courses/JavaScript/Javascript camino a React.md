@@ -135,11 +135,27 @@ const {carne, huevo, verduras} = inventarioDeAlimentos; // Con esta simple linea
 ```
 
 - La sintaxis al igual que con los arreglos, usaremos las llaves para hace la desestructuración.
-- El nombre de la variable debe de coincidir con la  propiedad del objeto> en el objeto la propiedad carne, se llama igual que la variable en la desestructuración.
-- Propiedades anidadas, podemos desestructurar propiedades que estén dentro de otras como en el caso de las **verduras**.
-- 
+- El nombre de la variable debe de coincidir con la  propiedad del objeto. En el objeto la propiedad carne, se llama igual que la variable en la desestructuración. El nombre puede ser cambiado por otro pero se debe hacer de la siguiente manera: 
+
 ```javascript
+
+const { carne: proteinaPrincipal, huevos } = inventarioDeAlimentos; console.log(proteinaPrincipal); // 'res' al llamar a la propiedad lo hacemos con el nombre que acabamos de darle.
+```
+
+- **Propiedades anidadas**, podemos desestructurar propiedades que estén dentro de otras como en el caso de las **verduras**.
+
+```javascript
+
  const{verduras:{cebolla}} = inventarioDeAlimentos
  
  console.log(cebolla) // la salida por consola sera: larga
+```
+
+- Valores por defecto, se pueden asignar si la propiedad no existe en el objeto.
+
+```javascript
+
+const{pescado, leche:'entera'} = inventarioDeAlimentos;
+
+console.log(leche); // Entera, este sera el valor de leche que le dimos a la propiedad al asignarsela al objeto por defecto.
 ```
