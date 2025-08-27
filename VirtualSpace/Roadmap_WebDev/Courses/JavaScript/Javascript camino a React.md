@@ -102,8 +102,9 @@ console.log('muestra los ingredientes fuera del array');
 
 const despensa = [carne, arroz, huevos, verduras, pescado] // este es el arreglo original
 
-const [carne, arroz, huevos] = despensa // con esta simple linea hemos 
-
+const [carne, arroz, huevos] = despensa // con esta simple linea hemos sacado las mismas variables del array (del ejemplo anterior).
 
 console.log(carne)
 ```
+
+2. Desestructuración de Objetos: De la misma forma que en los arreglos la desetructuracion en objetos funciona de la misma manera
