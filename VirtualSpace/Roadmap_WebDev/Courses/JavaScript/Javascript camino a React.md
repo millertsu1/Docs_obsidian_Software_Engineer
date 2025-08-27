@@ -119,4 +119,12 @@ verduras:['cebolla','zanahoria'],
 pescado:'salmon'
 }
 ```
-> Este es un objeto que representa el inventario que hay en la despensa
+> Este es un objeto que representa el inventario que hay en la despensa, pero en este caso imagina que solo necesitas la carne, el arroz y las verduras, lo demás no es necesario para completar la receta. En este caso accederíamos a solo lo que necesitamos de la manera convencional, así:
+
+```javascript
+
+const carne = inventarioDeAlimentos.carne;
+const arroz = inventarioDeAlimentos.arroz;
+const verduras = inventarioDeAlimentos.verduras;
+```
+>De esta manera podemos acceder a cada una de las propiedades del objeto, pero para nuestro caso las que necesitamos
