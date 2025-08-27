@@ -79,4 +79,20 @@ Como lo mencionamos anteriormente  podemos usar la desestructuración para los o
 ```javascript
 conts despensa = [carne, arroz, huevos, verduras, pescado]
 ```
-> Al crear el arreglo de despensa, metemos todo en esa despensa, pero al ser una arreglo, no podemos usar individualmente cada
+> Al crear el arreglo de despensa, metemos todo en esa despensa, pero al ser una arreglo, no podemos usar individualmente cada alimento dentro en esa lista de alimentos, aunque en la programación podríamos usar otros métodos para desestructurar(sacar los que necesitemos), sin embargo la desestructuración nos evitar escribir mucho código para sacar lo que necesitemos. Veamos un ejemplo sin desestructuración:
+
+```javascript
+const numeros =[1,2,3]
+
+let uno = numeros[0],
+
+dos =numeros[1],
+
+tres=numeros[2];
+
+  
+
+console.log(uno,dos,tres);
+
+console.log('muestra los numeros fuera del array');
+```
