@@ -74,5 +74,9 @@ El desestructurado es cómo desempacar una caja 📦. En lugar de llevar la caja
 
 Como lo mencionamos anteriormente  podemos usar la desestructuración para los objetos y los arreglos, veamos un par de ejemplos:
 
-1. Desestructuración en Arreglos: Nos permite
+1. Desestructuración en Arreglos: imagina que tiene un arreglo que representa tu despensa  con muchos alimentos dentro(carne, arroz, huevos, verduras, pescado), ahora imagina que tienes que hacer una comida con algunos de estos alimentos que tienes en la despensa, solo algunos no todos. La desestructuración es como sacar estos alimentos de la despensa para usarlos para completar tu receta.
 
+```javascript
+conts despensa = [carne, arroz, huevos, verduras, pescado]
+```
+> Al crear el arreglo de despensa, metemos todo en esa despensa, pero al ser una arreglo, no podemos usar individualmente cada
