@@ -127,4 +127,12 @@ const carne = inventarioDeAlimentos.carne;
 const arroz = inventarioDeAlimentos.arroz;
 const verduras = inventarioDeAlimentos.verduras;
 ```
->De esta manera podemos acceder a cada una de las propiedades del objeto, pero para nuestro caso las que necesitamos
+>De esta manera podemos acceder a cada una de las propiedades del objeto, pero para nuestro caso las que necesitamos, esta forma de acceder a estas propiedades se puede considerar la manera clásica. Sin embargo veamos ahora como acceder a la forma de hacerlos con la desestructuración.
+
+```javascript
+
+const {carne, huevo, verduras} = inventarioDeAlimentos; // Con esta simple linea podemos acceder a cada una de la propiedades, que se pueden considerar en esta etapa variables que podremos usar independientemente.
+```
+
+- La sintaxis al igual que con los arreglos, usaremos las llaves para hace la desestructuración.
+- El nombre de la variable debe de coincidir con la  propiedad del objeto> en el objeto la propiedad carne, se llama igual que la variable en la desestructuración.
