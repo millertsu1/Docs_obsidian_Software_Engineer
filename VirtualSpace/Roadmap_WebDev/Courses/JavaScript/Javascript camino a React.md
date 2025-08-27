@@ -151,7 +151,7 @@ const { carne: proteinaPrincipal, huevos } = inventarioDeAlimentos; console.log(
  console.log(cebolla) // la salida por consola sera: larga
 ```
 
-- Valores por defecto, se pueden asignar si la propiedad no existe en el objeto.
+- **Valores por defecto**, se pueden asignar si la propiedad no existe en el objeto.
 
 ```javascript
 
