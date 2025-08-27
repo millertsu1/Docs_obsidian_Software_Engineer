@@ -115,7 +115,7 @@ const inventarioDeAlimentos = {
 carne:'res',
 arroz:'integral',
 huevos:12,
-verduras:['cebolla','zanahoria'],
+verduras:{cebolla:'larga', zanahoria:'puerro'],
 pescado:'salmon'
 }
 ```
@@ -136,3 +136,10 @@ const {carne, huevo, verduras} = inventarioDeAlimentos; // Con esta simple linea
 
 - La sintaxis al igual que con los arreglos, usaremos las llaves para hace la desestructuración.
 - El nombre de la variable debe de coincidir con la  propiedad del objeto> en el objeto la propiedad carne, se llama igual que la variable en la desestructuración.
+- Propiedades anidadas, podemos desestructurar propiedades que estén dentro de otras como en el caso de las **verduras**.
+- 
+```javascript
+ const{verduras:{cebolla}} = inventarioDeAlimentos
+ 
+ console.log(cebolla) // la salida por consola sera: larga
+```
