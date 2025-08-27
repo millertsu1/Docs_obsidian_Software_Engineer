@@ -71,3 +71,4 @@ import { sumar2, restar, multiplicar } from './29.modulos.js'; // Importamos las
 ### 2. Desestructuración
 
 
+
