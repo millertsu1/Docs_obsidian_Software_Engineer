@@ -109,3 +109,14 @@ console.log(carne)
 > Si notamos debemos usar la misma estructura de los arreglos, o sea los corchetes (paréntesis rectangulares).
 
 2. **Desestructuración de Objetos**: De la misma forma que en los arreglos la desestructuración en objetos funciona de la misma manera, pero aquí sacamos propiedades y métodos del objeto, si continuamos con el ejemplo de la despensa, vamos a crear un objeto que  nos permita ver el inventario de alimentos que tiene esta despensa.
+
+```javascript
+const inventarioDeAlimentos = {
+carne:'res',
+arroz:'integral',
+huevos:12,
+verduras:['cebolla','zanahoria'],
+pescado:'salmon'
+}
+```
+> Este es un objeto que representa el inventario que hay en la despensa
