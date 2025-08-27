@@ -70,5 +70,5 @@ import { sumar2, restar, multiplicar } from './29.modulos.js'; // Importamos las
 
 ### 2. Desestructuración
 
-
+El desestructurado es cómo desempacar una caja 📦. En lugar de llevar la caja entera a todos lados (el objeto o el array), simplemente sacas los elementos que necesitas y los usas de forma individual. este seria un ejemplo de 
 
