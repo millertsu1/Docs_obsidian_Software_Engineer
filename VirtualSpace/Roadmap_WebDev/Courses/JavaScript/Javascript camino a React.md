@@ -72,3 +72,7 @@ import { sumar2, restar, multiplicar } from './29.modulos.js'; // Importamos las
 
 El desestructurado es cómo desempacar una caja 📦. En lugar de llevar la caja entera a todos lados (el objeto o el array), simplemente sacas los elementos que necesitas y los usas de forma individual. este seria un ejemplo simple en lenguaje común del funcionamiento de la desestructuración, pero llevemos esto al siguiente nivel.
 
+Como lo mencionamos anteriormente  podemos usar la desestructuración para los objetos y los arreglos, veamos un par de ejemplos:
+
+1. Desestructuración en Arreglos: Nos permite
+
