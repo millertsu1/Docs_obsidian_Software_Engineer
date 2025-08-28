@@ -6,7 +6,7 @@
 
 El camino a React puede parecer intimidante, sobre todo sin conocer a donde lleva ese camino. Que debes saber para aprender sobre JavaScript para dar el paso a React, en este mani-curso podrás aprender lo básico necesario para pasar a React sin presentar problemas.
 
-### 1. módulos
+### 1. Módulos
 los módulos nos ayudan a conectar archivos en JavaScript , traer una funcionalidad hecha en otro archivo y llevarla a donde nosotros necesitemos, así pues al cambiar a React debemos tener en cuenta los módulos para comunicar funcionalidades entre componentes. En JavaScript, los módulos son una forma de dividir el código en partes mas pequeñas y manejables. Cada modulo puede tener su propio ámbito, lo que significa que las variables y funciones definidas en un modulo no interfieren con las de otros módulos a menos que se exporten e importen explícitamente.
 
 ```javascript
@@ -71,6 +71,7 @@ import { sumar2, restar, multiplicar } from './29.modulos.js'; // Importamos las
 ### 2. Desestructuración
 
 ***[📝Ejercicios de desestructuración en JavaScript](https://docs.google.com/document/d/1YfF00_5gx9VWwZ6oZc3jMzCcu_gvUNlaa2s1FPNggcs/edit?tab=t.0#heading=h.imiwhsl1vtjx)
+[📝Ejercicios de desestructuración en React](https://docs.google.com/document/d/1YfF00_5gx9VWwZ6oZc3jMzCcu_gvUNlaa2s1FPNggcs/edit?tab=t.thdg8a3kgvpu)
 
 El desestructurado es cómo desempacar una caja 📦. En lugar de llevar la caja entera a todos lados (el objeto o el array), simplemente sacas los elementos que necesitas y los usas de forma individual. este seria un ejemplo simple en lenguaje común del funcionamiento de la desestructuración, pero llevemos esto al siguiente nivel.
 
@@ -110,7 +111,7 @@ console.log(carne)
 ```
 > Si notamos debemos usar la misma estructura de los arreglos, o sea los corchetes (paréntesis rectangulares).
 
-### Características clave de la desestructuración de arreglos
+#### Características clave de la desestructuración de arreglos
 
 - **Sintaxis:** Se utilizan corchetes `[]` en el lado izquierdo de la asignación.
 
