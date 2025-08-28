@@ -6,7 +6,7 @@
 
 El camino a React puede parecer intimidante, sobre todo sin conocer a donde lleva ese camino. Que debes saber para aprender sobre JavaScript para dar el paso a React, en este mani-curso podrás aprender lo básico necesario para pasar a React sin presentar problemas.
 
-### 1. módulos: 
+### 1. módulos
 los módulos nos ayudan a conectar archivos en JavaScript , traer una funcionalidad hecha en otro archivo y llevarla a donde nosotros necesitemos, así pues al cambiar a React debemos tener en cuenta los módulos para comunicar funcionalidades entre componentes. En JavaScript, los módulos son una forma de dividir el código en partes mas pequeñas y manejables. Cada modulo puede tener su propio ámbito, lo que significa que las variables y funciones definidas en un modulo no interfieren con las de otros módulos a menos que se exporten e importen explícitamente.
 
 ```javascript
@@ -70,6 +70,8 @@ import { sumar2, restar, multiplicar } from './29.modulos.js'; // Importamos las
 
 ### 2. Desestructuración
 
+**[Ejercicios de desestructuracion](https://docs.google.com/document/d/1YfF00_5gx9VWwZ6oZc3jMzCcu_gvUNlaa2s1FPNggcs/edit?tab=t.0#heading=h.imiwhsl1vtjx)**
+
 El desestructurado es cómo desempacar una caja 📦. En lugar de llevar la caja entera a todos lados (el objeto o el array), simplemente sacas los elementos que necesitas y los usas de forma individual. este seria un ejemplo simple en lenguaje común del funcionamiento de la desestructuración, pero llevemos esto al siguiente nivel.
 
 Como lo mencionamos anteriormente  podemos usar la desestructuración para los objetos y los arreglos, veamos un par de ejemplos:
@@ -118,21 +120,20 @@ console.log(carne)
 
 - **Resto de elementos:** Puedes usar la sintaxis `...rest` para agrupar los elementos restantes del arreglo en un nuevo arreglo.
 
-
 ``` javascript
 
 const [carne, , huevos, ...otrosAlimentos] = ['carne', ,'huevos', 'verduras', 'pescado'];
-console.log(carne); // 'oro'
-console.log(huevos); // 'bronce'
-console.log(otrosAlimentos); // ['mención de honor', 'reconocimiento']
+console.log(carne); // 'carne'
+console.log(huevos); // 'huevos'
+console.log(otrosAlimentos); // ['verduras', pescado]
 ```
 
 - **Valores por defecto:** Puedes asignar un valor predeterminado a una variable en caso de que el elemento correspondiente en el arreglo no exista.
 
 ```javascript
 
-const [primeraMedalla, segundaMedalla, terceraMedalla, cuartaMedalla = 'participación'] = ['oro', 'plata', 'bronce'];
-console.log(cuartaMedalla); // 'participación'
+const [carne, arroz, huevos, otrosAlimento ='queso'] = ['carne','arroz','huevos'];
+console.log(otroAlimento); // 'queso'
 ```
 
 La desestructuración de arreglos es una forma de escribir código más claro y eficiente, reduciendo la cantidad de líneas necesarias para manejar datos de arreglos.
@@ -168,7 +169,9 @@ const {carne, huevo, verduras} = inventarioDeAlimentos; // Con esta simple linea
 
 ```javascript
 
-const { carne: proteinaPrincipal, huevos } = inventarioDeAlimentos; console.log(proteinaPrincipal); // 'res' al llamar a la propiedad lo hacemos con el nombre que acabamos de darle.
+const { carne: proteinaPrincipal, huevos } = inventarioDeAlimentos; 
+
+console.log(proteinaPrincipal); // 'res' al llamar a la propiedad lo hacemos con el nombre que acabamos de darle.
 ```
 
 - **Propiedades anidadas**, podemos desestructurar propiedades que estén dentro de otras como en el caso de las **verduras**.
