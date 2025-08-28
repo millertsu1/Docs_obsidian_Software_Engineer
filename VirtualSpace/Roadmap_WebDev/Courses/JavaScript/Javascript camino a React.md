@@ -70,7 +70,7 @@ import { sumar2, restar, multiplicar } from './29.modulos.js'; // Importamos las
 
 ### 2. Desestructuración
 
-**[Ejercicios de desestructuracion](https://docs.google.com/document/d/1YfF00_5gx9VWwZ6oZc3jMzCcu_gvUNlaa2s1FPNggcs/edit?tab=t.0#heading=h.imiwhsl1vtjx)**
+***[📝Ejercicios de desestructuración en JavaScript](https://docs.google.com/document/d/1YfF00_5gx9VWwZ6oZc3jMzCcu_gvUNlaa2s1FPNggcs/edit?tab=t.0#heading=h.imiwhsl1vtjx)
 
 El desestructurado es cómo desempacar una caja 📦. En lugar de llevar la caja entera a todos lados (el objeto o el array), simplemente sacas los elementos que necesitas y los usas de forma individual. este seria un ejemplo simple en lenguaje común del funcionamiento de la desestructuración, pero llevemos esto al siguiente nivel.
 
