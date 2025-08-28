@@ -108,6 +108,35 @@ console.log(carne)
 ```
 > Si notamos debemos usar la misma estructura de los arreglos, o sea los corchetes (paréntesis rectangulares).
 
+### Características clave de la desestructuración de arreglos
+
+- **Sintaxis:** Se utilizan corchetes `[]` en el lado izquierdo de la asignación.
+
+- **Orden:** La desestructuración se basa en el orden de los elementos en el arreglo. El primer valor se asigna a la primera variable, el segundo a la segunda, y así sucesivamente.
+
+- **Omitir elementos:** Si no necesitas un valor específico, puedes omitir la variable en esa posición dejando un espacio vacío.
+
+- **Resto de elementos:** Puedes usar la sintaxis `...rest` para agrupar los elementos restantes del arreglo en un nuevo arreglo.
+
+
+``` javascript
+
+const [carne, , huevos, ...otrosAlimentos] = ['carne', ,'huevos', 'verduras', 'pescado'];
+console.log(carne); // 'oro'
+console.log(huevos); // 'bronce'
+console.log(otrosAlimentos); // ['mención de honor', 'reconocimiento']
+```
+
+- **Valores por defecto:** Puedes asignar un valor predeterminado a una variable en caso de que el elemento correspondiente en el arreglo no exista.
+
+```javascript
+
+const [primeraMedalla, segundaMedalla, terceraMedalla, cuartaMedalla = 'participación'] = ['oro', 'plata', 'bronce'];
+console.log(cuartaMedalla); // 'participación'
+```
+
+La desestructuración de arreglos es una forma de escribir código más claro y eficiente, reduciendo la cantidad de líneas necesarias para manejar datos de arreglos.
+
 2. **Desestructuración de Objetos**: De la misma forma que en los arreglos la desestructuración en objetos funciona de la misma manera, pero aquí sacamos propiedades y métodos del objeto, si continuamos con el ejemplo de la despensa, vamos a crear un objeto que  nos permita ver el inventario de alimentos que tiene esta despensa.
 
 ```javascript
