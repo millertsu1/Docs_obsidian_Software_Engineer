@@ -192,3 +192,8 @@ const{pescado, leche:'entera'} = inventarioDeAlimentos;
 
 console.log(leche); // Entera, este sera el valor de leche que le dimos a la propiedad al asignarsela al objeto por defecto.
 ```
+
+## 3. Como manejar el estado en JavaScript
+
+Para poder lograrlo debemos manejar el DOM directamente. En JavaScript la manipulacion del DOM, nos ayuda  a interactuar con todos los elementos que componen una pagina web, cada etiqueta del HTML, puede ser manipulada desde JavaScript incluido el estado
+
