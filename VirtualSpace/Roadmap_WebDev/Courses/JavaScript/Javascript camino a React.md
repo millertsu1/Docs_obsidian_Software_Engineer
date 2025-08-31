@@ -197,3 +197,24 @@ console.log(leche); // Entera, este sera el valor de leche que le dimos a la pro
 
 Para poder lograrlo debemos manejar el DOM directamente. En JavaScript la manipulación del DOM, nos ayuda  a interactuar con todos los elementos que componen una pagina web, cada etiqueta del HTML, puede ser manipulada desde JavaScript incluido el estado.
 
+El **estado (`state`)** es un concepto fundamental en React. Piensa en él como la **memoria** 🧠 de un componente. Es un objeto de JavaScript que guarda datos que pueden cambiar con el tiempo. Cuando esos datos cambian, React automáticamente actualiza lo que el usuario ve en la pantalla.
+
+A diferencia de las variables normales que se pierden cuando un componente se renderiza de nuevo, el `state` se mantiene.
+
+Para entender esto, vamos a usar una analogía: imagina un semáforo 🚦. El semáforo necesita "recordar" qué luz está encendida en un momento dado (rojo, amarillo o verde) para saber cuándo cambiar a la siguiente. Esa "memoria" es su estado.
+
+Cuando el estado del semáforo cambia de rojo a verde, él sabe que debe actualizar su apariencia. En React, el `state` funciona de la misma manera: cuando el estado cambia, el componente se actualiza.
+
+Usemos el ejemplo de un contador ya que es clásico y mas fácil de entender, primero veámoslo en JavaScript para entender el funcionamiento y luego pasamos a React para consolidarlo. Veamos los pasos con el contador:
+
+- Encontrar el elemento HTML del contador
+- Leer su valor actual
+- Sumarle 1
+- Actualizar el texto del elemento 
+
+A medida que JavaScript crece se vuelve mas complicado y desordenado. Así que en React esto se simplifico con el uso de Hooks. El primero que veremos es el useState, pensemos en el como una función especial que nos da 2 cosas:
+
+- La variable que guarda el valor del estado(en este caso el numero del contador)
+- Una función que se usa específicamente para cambiar el valor de la variable anterior.
+
+Aqui es donde entra en juego la dese
