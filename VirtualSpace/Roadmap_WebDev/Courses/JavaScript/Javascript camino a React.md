@@ -217,4 +217,22 @@ A medida que JavaScript crece se vuelve mas complicado y desordenado. Así que e
 - La variable que guarda el valor del estado(en este caso el numero del contador)
 - Una función que se usa específicamente para cambiar el valor de la variable anterior.
 
-Aqui es donde entra en juego la dese
+Aqui es donde entra en juego la desesctructuracion de arreglos que vimos anteriormente. El Hook `useState` retorna un array con exactamente estos dos elementos, y por eso usamos la desestructuración para capturarlos.
+
+La sintaxis siempre es así:
+
+```javascript
+const [variable, funcionParaCambiarla] = useState(valorInicial);
+```
+
+Ahora como  estamos con el ejemplo del contador como debo llamar a la variable y a la funciona que modifica la variable, veamos:
+
+```javascript
+const [contador, setContador] = useState(1);
+```
+
+con esta sintaxis le esta diciendo que la variable se llama contador y almacenara el valor del  contador como en una tienda, así que  si vamos al supermercado a compra y tomamos un producto del estante la variable va a guardar las cantidades de este producto que sera nuestra variable.
+
+El **useState(1)** es el que indica el valor inicial de la variables o sea cuando nosotros compramos por internet el valor por defecto es 1 ya que al construir la plataforma de venta de productos asumimos que no mas al entrar la persona quiere comprar mínimo un producto, o sino no entraría a nuestra tienda(facilitamos el trabajo).
+
+Si estuviéramos manipulando cadenas u otros elementos tendríamos que evaluar que intentamos procesar con el **useState** y el tipo de valor que tendría esta manipulación, como las cadenas, los arreglos los objetos, etc.
