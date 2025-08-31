@@ -236,3 +236,30 @@ con esta sintaxis le esta diciendo que la variable se llama contador y almacenar
 El **useState(1)** es el que indica el valor inicial de la variables o sea cuando nosotros compramos por internet el valor por defecto es 1 ya que al construir la plataforma de venta de productos asumimos que no mas al entrar la persona quiere comprar mínimo un producto, o sino no entraría a nuestra tienda(facilitamos el trabajo).
 
 Si estuviéramos manipulando cadenas u otros elementos tendríamos que evaluar que intentamos procesar con el **useState** y el tipo de valor que tendría esta manipulación, como las cadenas, los arreglos los objetos, etc.
+
+En React, una función se divide en 2 partes:
+
+1. La parte lógica antes de return
+2. La parte visible que renderiza nuestra lógica. 
+
+```javascript
+import {useState} from 'react';
+
+funcion App(){
+	const [contador, setContador] = useState(1);
+	
+	const aumentarContador = ()=>{
+		setContador(contador+1);
+	};
+	
+	return(
+		<div>
+			<h1>contador: {contador}</h1>
+			<button onClick ={aumentarContador}>
+				clic para aumentar
+			</button>
+		</div>
+	):
+}
+```
+> *Con este ejemplo creamos todo un componente en React que nos permite la manipulación del estado de el botón para aumentar la cantidad de items del carrito de compras.
