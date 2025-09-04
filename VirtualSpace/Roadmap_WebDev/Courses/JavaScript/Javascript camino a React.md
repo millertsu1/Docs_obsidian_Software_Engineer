@@ -263,3 +263,4 @@ funcion App(){
 }
 ```
 > *Con este ejemplo creamos todo un componente en React que nos permite la manipulación del estado de el botón para aumentar la cantidad de items del carrito de compras.
+
