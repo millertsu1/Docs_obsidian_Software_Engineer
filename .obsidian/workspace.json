@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "JavaScript camino a React"
             }
+          },
+          {
+            "id": "d1b0c962a94ae241",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VirtualSpace/Roadmap_WebDev/Courses/English/All tenses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "All tenses"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,10 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94b008f801b57363",
+  "active": "d1b0c962a94ae241",
   "lastOpenFiles": [
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
+    "present simple structure.png",
+    "VirtualSpace/Roadmap_WebDev/Courses/English/All tenses.md",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
+    "VirtualSpace/Roadmap_WebDev/Courses/English",
+    "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
     "Untitled.canvas",
     "Untitled.base",
     "Excalidraw/Serializers sintaxis.md",
@@ -234,14 +251,11 @@
     "Excalidraw/Primeros pasos.md",
     "multimedia/docker-compose.yml.png",
     "multimedia/Dockerfile.png",
-    "multimedia/docker-compose para unir dos servicios web.png",
     "Excalidraw/Vistas en Django.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado",
     "Docker",
     "VirtualSpace/Roadmap_WebDev/Courses/Docker",
     "index Errors.md",
-    "Pasted image 20250804193206.png.md",
-    "VirtualSpace/VirtualSpace/Roadmap_WebDev/Courses",
-    "VirtualSpace/VirtualSpace/Roadmap_WebDev"
+    "VirtualSpace/VirtualSpace/Roadmap_WebDev/Courses"
   ]
 }
