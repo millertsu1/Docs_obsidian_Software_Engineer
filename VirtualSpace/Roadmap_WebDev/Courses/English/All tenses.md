@@ -202,22 +202,22 @@ you can describe the action occurring in the present moment
 
 ## When to use it
 
-- **Now:
+- **Now:**
 	- The baby is sleeping
 
-- **Around now:
+- **Around now:**
 	- He is writing a book
 
-- **Temporary:
+- **Temporary:**
 	- We are staying at a hotel
 
-- **Trend:
+- **Trend:**
 	- The prices are homes are increasing
 
-- **Repeated action:
+- **Repeated action:**
 	- They are always making noise(negative)
  
-- **Future:
+- **Future:**
 	- She’s flying to Mexico next week.
 
 ## When not to use it
