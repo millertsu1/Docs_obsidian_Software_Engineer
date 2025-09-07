@@ -49,8 +49,7 @@
               "title": "All tenses"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,11 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1b0c962a94ae241",
+  "active": "dbe723dcac331305",
   "lastOpenFiles": [
-    "present simple structure.png",
-    "VirtualSpace/Roadmap_WebDev/Courses/English/All tenses.md",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
+    "VirtualSpace/Roadmap_WebDev/Courses/English/All tenses.md",
+    "present simple structure.png",
     "VirtualSpace/Roadmap_WebDev/Courses/English",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
     "Untitled.canvas",

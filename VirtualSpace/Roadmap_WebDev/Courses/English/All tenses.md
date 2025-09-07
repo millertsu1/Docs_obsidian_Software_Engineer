@@ -272,3 +272,101 @@ you can describe the action occurring in the present moment
 | Verbs ending in IE  | Drop IE and add Y + ING | Lie=> lying<br><br>Tie => tying       |
 | Verbs ending in CVC | Double last letter      | Clap => clapping<br><br>Sit=> sitting |
 ## Short answers
+
+Question: Is he working late?
+
+- Yes,  he is
+    
+- No, he isn’t
+
+Question: Are they going to the meeting?
+
+- Yes, they are
+    
+- No, they aren’t
+ 
+Question: Are you studying?
+
+- Yes, I am
+    
+- No, I’m not
+
+## Practice
+
+| Positive                  |                            |
+| ------------------------- | -------------------------- |
+|                           |                            |
+| I go                      | I am going                 |
+| We wait                   | We are waiting             |
+| They play                 | They are playing           |
+| Negative                  |                            |
+| She’s calling             | She isn’t calling          |
+| We’re cooking             | We aren’t cooking          |
+| I’m reading               | I am not reading           |
+| Interrogative             |                            |
+| They are buying a new car | Are they buying a new car? |
+| She is doing her homework | Is she doing her homework? |
+| We are leaving at 8:00    | Are we leaving at 8:00?    |
+## Common Errors
+
+
+To be missing: 
+
+- My brother watching the news.❌
+
+- My brother is watching the news ✅
+  
+- John helping ❌
+
+- John is not helping ✅
+
+- She going? ❌
+
+- Is she going? ✅
+   
+To be incorrect:
+
+- Bob and Maria is driving home ❌
+
+- Bob and Maria are driving home ✅
+
+- He aint studying ❌
+
+- He isn’t studying ✅
+
+Verb incorrect:
+
+- She is do her homework ❌
+
+- She is doing her homework ✅
+
+- The game is start now ❌
+
+- The game is starting now ✅
+
+Spelling:
+
+- She’s lieing / siting / writing ❌
+
+- She’s lying / sitting / writing ✅
+ 
+- Were going to the mall ❌
+
+- We’re going to the mall ✅
+
+Stative verbs:
+
+- I am needing some water ❌
+
+- I need some water ✅
+ 
+- I am wanting to visit Hawaii ❌
+
+- I want to visit Hawaii ✅
+
+Permanent:
+
+- We are manufacturing cars ❌
+
+- We manufacture cars ✅
+
