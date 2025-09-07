@@ -181,9 +181,6 @@ What time do you finish work? ☑️
 
 [Learn all the Tenses in English: Complete Course](https://www.youtube.com/watch?v=O9S70oJAivI&t=1460s)
 
-  
-
-Describe acciones que están ocurriendo en el momento presente
 
 you can describe the action occurring in the present moment
 
