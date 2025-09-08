@@ -49,7 +49,8 @@
               "title": "All tenses"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "fcd366e178fe9808",
@@ -194,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,13 +210,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbe723dcac331305",
+  "active": "d1b0c962a94ae241",
   "lastOpenFiles": [
-    "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/English/All tenses.md",
+    "past simple.png",
     "present simple structure.png",
-    "VirtualSpace/Roadmap_WebDev/Courses/English",
+    "VirtualSpace/Roadmap_WebDev/Courses/English/All tenses.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
+    "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
+    "VirtualSpace/Roadmap_WebDev/Courses/English",
     "Untitled.canvas",
     "Untitled.base",
     "Excalidraw/Serializers sintaxis.md",
@@ -250,7 +252,6 @@
     "VirtualSpace/Roadmap_WebDev/Courses/Docker/1. Docker pasos iniciales.md",
     "Excalidraw/Primeros pasos.md",
     "multimedia/docker-compose.yml.png",
-    "multimedia/Dockerfile.png",
     "Excalidraw/Vistas en Django.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado",
     "Docker",

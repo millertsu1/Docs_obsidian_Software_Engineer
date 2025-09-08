@@ -370,3 +370,24 @@ Permanent:
 
 - We manufacture cars ✅
 
+# Past simple
+
+![[past simple.png]]
+
+## When to use it
+
+1. With time expression
+	- Brian **called** last week
+2.  Without time expression
+	- I **cooked** dinner
+3. Recent past
+	- We **visited** her yesterday
+4. Distant past
+	- She **lived** in London a long time ago
+5. One action
+	- She **talked** to her manager
+6. Many actions
+	- They **invited** their friends, **ordered** pizza, and **watched** the game.
+
+## How to use it
+
