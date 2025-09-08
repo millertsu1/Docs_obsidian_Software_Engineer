@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "fcd366e178fe9808",
@@ -212,8 +211,9 @@
   },
   "active": "d1b0c962a94ae241",
   "lastOpenFiles": [
-    "How to use it simple past.png",
+    "simple past pronunciation.png",
     "VirtualSpace/Roadmap_WebDev/Courses/English/All tenses.md",
+    "How to use it simple past.png",
     "past simple.png",
     "present simple structure.png",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
@@ -246,7 +246,6 @@
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript",
     "VirtualSpace/Roadmap_WebDev/Courses/Django/Django.md",
     "VirtualSpace/Roadmap_WebDev/Projects_programming/Paso a Paso Guía para Containerizar tu Aplicación Django.md",
-    "multimedia/dockerfile del proyecto.png",
     "VirtualSpace/Roadmap_WebDev/Errors_programming/ERRORS.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases",
     "multimedia",

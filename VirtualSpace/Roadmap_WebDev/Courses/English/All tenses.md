@@ -420,3 +420,21 @@ Permanent:
 4. With the structure `CVC`(consonant, vowel, consonant), double last letter and add `ed`
 	- stop => stopped
 	- plan => planned
+
+## Pronunciation
+
+![[simple past pronunciation.png]]
+
+## Practice
+
+positive:
+- I play tennis ---- **played**
+- They study math ----- **studied**
+
+negative:
+- It rained ----- **didn't rain**
+- John called -------- **didn't call**
+
+interrogative:
+- Alex sent the  email. => Did Alex
+- They stayed
