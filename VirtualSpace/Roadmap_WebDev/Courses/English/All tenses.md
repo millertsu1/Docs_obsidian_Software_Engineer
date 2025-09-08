@@ -401,3 +401,19 @@ Permanent:
 	- go => went
 	- see => saw
 	- buy => bought
+3. The verbs(maintain the base form) change in negative and interrogative sentences
+
+## Spelling
+
+1. add +ed:
+	- walk => walked
+	- cook => cooked
+2. add +d:
+	- bake =>baked
+	- use => used
+3. remove `y` and add `ied`
+	- cry => cried
+	- study => studied
+4. With the structure `CVC`(consonant, vowel, consonant), double last letter and add `ed`
+	- stop => stopped
+	- plan => planned
