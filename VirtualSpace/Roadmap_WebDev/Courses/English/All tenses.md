@@ -372,6 +372,9 @@ Permanent:
 
 # Past simple
 
+#### **📽️[Pasado simple como funciona](https://www.youtube.com/watch?v=wLuNOWXw96c)
+
+
 ![[past simple.png]]
 
 ## When to use it
