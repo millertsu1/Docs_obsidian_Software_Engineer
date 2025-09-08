@@ -428,13 +428,14 @@ Permanent:
 ## Practice
 
 positive:
-- I play tennis ---- **played**
-- They study math ----- **studied**
+- I play tennis ---- I **played** tennis
+- They study math -----  they **studied** math
 
 negative:
-- It rained ----- **didn't rain**
-- John called -------- **didn't call**
+- It rained ----- It **didn't rain**
+- John called -------- John **didn't call**
 
 interrogative:
-- Alex sent the  email. => Did Alex
-- They stayed
+- Alex **sent** the  email. => Did Alex **send** the email?
+- They **stayed** at the hotel => Where did they **stay**?
+- She **arrived** at 6:00 => When did she **arrive**?
