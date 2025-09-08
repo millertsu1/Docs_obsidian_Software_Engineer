@@ -439,3 +439,15 @@ interrogative:
 - Alex **sent** the  email. => Did Alex **send** the email?
 - They **stayed** at the hotel => Where did they **stay**?
 - She **arrived** at 6:00 => When did she **arrive**?
+
+## Short answers
+
+Did  Jack finish his report?
+- Yes, he did
+- No, he didn't
+Did the flight leave on time?
+- Yes, it did
+- No, it didn't
+Did you understand this past simple?
+- Yes, I did
+- No, I didn't
