@@ -391,3 +391,13 @@ Permanent:
 
 ## How to use it
 
+![[How to use it simple past.png]]
+
+1. In the regular verbs add `ed` at the end
+	- work => worked
+	- clean => cleaned
+	- watch => watched
+2. In the regular verbs add  we can't control the structure this is its name
+	- go => went
+	- see => saw
+	- buy => bought
