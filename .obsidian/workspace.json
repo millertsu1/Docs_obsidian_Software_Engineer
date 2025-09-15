@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "fcd366e178fe9808",
@@ -213,9 +212,9 @@
   "active": "94b008f801b57363",
   "lastOpenFiles": [
     "props.png",
+    "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
     "VirtualSpace/Roadmap_WebDev/Courses/English/All tenses.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
     "simple past pronunciation.png",
     "How to use it simple past.png",
     "past simple.png",
@@ -229,7 +228,6 @@
     "multimedia/construyendo el viewSet.png",
     "multimedia/estructura del serializador.png",
     "multimedia/docker-compose services config.png",
-    "multimedia/DB Postgres en Django settings.png",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Type Assertions (aserciones de tipo) en TS.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Roadmap Fullstack Dev.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Proyectos para practicar Django.md",
