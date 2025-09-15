@@ -272,3 +272,4 @@ Las props son la abreviatura de propiedades, son la forma de comunicación entre
 
 - Por que `son reutilizables`, las props nos permiten crear componentes que se  pueden usar en multiples lugares con diferentes datos. por ejemplo en lugar de crear un botón  para cada color, podemos crear un componente `Button` y pasar el color por las `props`.
 - `Manejan un solo flujo de datos` como lo mencionamos anteriormente, las `props` fluyen en una sola dirección de arriba hacia abajo (del padre al hijo), así que en `React` es fácil entenderlo porque se puede manejar de esta forma.
+![[props.png]]
