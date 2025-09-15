@@ -266,3 +266,9 @@ funcion App(){
 
 ### 4. Props
 
+Las props son la abreviatura de propiedades, son la forma de comunicación entre componentes que se pasan unidireccionalmente entre componentes, por esta misma naturaleza son inmutables por los componentes que las reciben.
+
+#### ¿ por qué son tan importantes?
+
+- Por que `son reutilizables`, las props nos permiten crear componentes que se  pueden usar en multiples lugares con diferentes datos. por ejemplo en lugar de crear un botón  para cada color, podemos crear un componente `Button` y pasar el color por las `props`.
+- Manejan un solo flujo de datos como lo mencionamos anteriormente, las `props` fluyen en una sola dirección de arriba hacia abajo (del padre al hijo), asi que en react es facil entenderlo porque se puede manejar de esta forma.
