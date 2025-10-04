@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "All tenses"
             }
+          },
+          {
+            "id": "0a2156c4a4fe824c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c33cd5fd7baa9c41",
+  "active": "0a2156c4a4fe824c",
   "lastOpenFiles": [
     "props.png",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
