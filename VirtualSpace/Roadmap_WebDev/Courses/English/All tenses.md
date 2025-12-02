@@ -451,3 +451,11 @@ Did the flight leave on time?
 Did you understand this past simple?
 - Yes, I did
 - No, I didn't
+
+# Past Continues
+
+![[Pasted image 20251105185656.png]]
+
+# as much as VS as many as
+
+![[Pasted image 20251119094704.png]]

@@ -89,7 +89,7 @@ Debemos tener en cuenta que la configuración de la base de datos debe realizars
 	- Instalamos la librería con el comando: `docker-compose exec api pip install djangorestframework`.
 	- Actualizamos el archivo `requirements.txt` con el comando `pip freeze > requirements.txt` para asegurarnos de que la librería esté siempre disponible.
 	- Reconstruimos el contenedor de la API con `docker-compose up --build`.
-2. **configuración del proyecto
+2. **Configuración del proyecto
 	- Agregamos `'rest_framework'` a la lista `INSTALLED_APPS` en tu archivo `settings.py` para que Django cargue la librería.
 3. **Creamos el Serializador 
 	- Creamos un nuevo archivo llamado **`serializers.py`** dentro de tu aplicación `recetas`.
