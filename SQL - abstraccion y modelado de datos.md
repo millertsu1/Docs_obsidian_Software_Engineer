@@ -11,7 +11,13 @@ Las relaciones tienen una caracteristica  conocida como |**cardinalidad**  la cu
 
 * **1 a N:** representa una relacion uno a muchos, por ejemplo: una persona puede tener muchos autos(N autos) y muchos auots pueden pertenecer a un personal(notese que se puede leer al reves).
 ![[Pasted image 20251208103714.png]]
+
 * 1 a 1: Es un tipo de relacion en la cual una tabla se relaciona exclusivamente con otra tabla. Por ejemplo:  a un alumno le pertenece una libreta de apuntes y viceversa una libre pertenece unicamente a un alumno.
 ![[Pasted image 20251208104004.png]]
 
-* N a n: Es un tipo de relacion en la cual dos tablas pueden estar relacionadas con varios elementos de  la tabla
+* **N a n:** Es un tipo de relacion en la cual dos tablas pueden estar relacionadas con varios elementos de  la tabla 1 con la tabla 2, por ejemplo: muchos alumnos pueden tener muchas materias y muchas materias puede ser asignadas(cursadas), por un alumno.
+![[Pasted image 20251208104300.png]]
+
+El siguiente es el ejmplo es una reprensentacion de las tablas usando el diagrama entidad relacion, esta nos permite entender las relaciones vistar arriba.
+
+![[Pasted image 20251208105047.png]]
