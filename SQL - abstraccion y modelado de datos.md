@@ -18,6 +18,12 @@ Las relaciones tienen una caracteristica  conocida como |**cardinalidad**  la cu
 * **N a n:** Es un tipo de relacion en la cual dos tablas pueden estar relacionadas con varios elementos de  la tabla 1 con la tabla 2, por ejemplo: muchos alumnos pueden tener muchas materias y muchas materias puede ser asignadas(cursadas), por un alumno.
 ![[Pasted image 20251208104300.png]]
 
-El siguiente es el ejmplo es una reprensentacion de las tablas usando el diagrama entidad relacion, esta nos permite entender las relaciones vistar arriba.
+El siguiente es el ejemplo es una reprensentacion de las tablas usando el diagrama entidad relacion, esta nos permite entender las relaciones vistar arriba.
 
 ![[Pasted image 20251208105047.png]]
+
+### Cómo relacionamos las tablas.
+
+Para poder lograr las relaciones entre las tablas requerimos que cada  elemento de cada tabla deba identificarse de forma unica para que no haya confusiones entre valores repetidos, para ello utilizamos 2 tipos de claves:
+
+1. las claves primarias(Primary Key): Son valores que identifican de manera unica  a cada 
