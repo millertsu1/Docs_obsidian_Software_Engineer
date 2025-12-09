@@ -28,3 +28,14 @@ Para poder lograr las relaciones entre las tablas requerimos que cada  elemento 
 
 1. **Las claves primarias(Primary Key)**: Son valores que identifican de manera unica  a cada fila  o registro de la tabla es un identificador unico que no se repita en ningun momento por ejemplo un numero de cliente, el pasaporte podria estar relacionado.
 2. **Una clave foranea(Foreign Key)**: es un campo de una tabla cualquiera que sirve para relacionar entre si  con otra  tabla diferente por ejemplo una relacion de la tabla X con la tabla Y. Donde la clave primaria puede entenderse como  que la llave foranea es la Primary Key de otra tabla, asi en una relacion de 2 tablas la Primary Key de la tabla 1 es la Foreign Key de la tabla 2.
+
+## SQL
+
+![[Pasted image 20251209112718.png]]
+
+Al final nosotros vamos a ver esto como una consulta en español, y como su nombre lo indica es consultar con la base de datos en busqueda de información. Con las consultas preguntamos a la base de datos por algun tipo de dato o informacion  usando el Lenguaje SQL para consultarla. Las consultas se clasifican de acuerdo a lo que se quiere obtener al consultar la base de datos.
+
+![[Pasted image 20251209113211.png]]
+
+
+
