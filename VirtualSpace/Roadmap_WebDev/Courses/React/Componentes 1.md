@@ -15,6 +15,10 @@ También los componentes tienen unas caracteristicas asociadas, como:
 
 * Renderizan un unico elemento: Esto por ejemplo sugiere que solo hay una etiqueta que se mostrar, veamos un ejemplo:
 
-```
+```javascript
+return (
+
+      <div>
+      </div>
 
 ```
