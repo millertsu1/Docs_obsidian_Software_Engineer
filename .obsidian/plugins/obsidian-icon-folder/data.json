@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAtom",
       "LiImages",
       "LiFolder",
       "LiEye",
-      "LiMountain",
-      "LiPen"
+      "LiMountain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -99,5 +99,9 @@
     "iconName": "LiEye",
     "iconColor": "#0aeb42"
   },
-  "VirtualSpace/Roadmap_WebDev/Courses/English": "LiFolder"
+  "VirtualSpace/Roadmap_WebDev/Courses/English": "LiFolder",
+  "VirtualSpace/Roadmap_WebDev/Courses/React": {
+    "iconName": "LiAtom",
+    "iconColor": "#177eee"
+  }
 }
