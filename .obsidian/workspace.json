@@ -208,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,6 +226,7 @@
   },
   "active": "1b430710e5043625",
   "lastOpenFiles": [
+    "Pasted image 20251219102037.png",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
     "VirtualSpace/Roadmap_WebDev/Courses/React/Componentes 1.md",
     "VirtualSpace/Roadmap_WebDev/Courses/React",
@@ -269,7 +271,6 @@
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases",
     "multimedia",
     "Excalidraw/Primeros pasos.md",
-    "Excalidraw/Vistas en Django.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado",
     "Docker"
   ]
