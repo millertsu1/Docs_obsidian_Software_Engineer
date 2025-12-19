@@ -32,7 +32,9 @@ Hemos creado un ejemplo creando un nuevo componente llamado **TituloPrincipal** 
 
 Ahora en el componente padre tenemos que hacer  ajustes:
 
-1. importar el componente hijo.
+1. Importar el componente hijo.
 ![[Pasted image 20251219115726.png]]
 
-2. Llamar al componente hijo que se rendizara, recordemos que 
+2. Llamar al componente hijo que se rendizara, recordemos que en un componente la parte que renderiza( que se muestra), es dentro del return. Alli debemos llamar el componente hijo y dentro como si establecieramos  atributos a una etiqueta normal agregamos las props que le pasaremos.
+
+![[Pasted image 20251219122303.png]]
