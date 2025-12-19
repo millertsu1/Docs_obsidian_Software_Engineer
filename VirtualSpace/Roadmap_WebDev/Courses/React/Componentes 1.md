@@ -24,4 +24,15 @@ Notese que las etiquetas h1 y p, estan estan envueltos en la etiqueta div, esto 
 
 * Pueden recibir props (propiedades): Las props son objetos que contienen datos que un componente necesita para renderizarse correctamente. Y estas se envian de forma unidireccional de un *componente padre* a un *componente hijo*.
 
-Hemos creado un ejemplo creando un nuevo componente llamado TituloPrincipal este es el componente hijo, de acuerdo a lo anterior podemos entonces deducir que 
+Hemos creado un ejemplo creando un nuevo componente llamado **TituloPrincipal** este es el **componente hijo**, de acuerdo a lo anterior podemos entonces deducir que este componente tendra un parametro que sera las propias *props*. Y asi mismo renderizara la informacion  que nos pase el componente padre.
+
+![[Pasted image 20251219115315.png]]
+* El componente renderiza un elemento que es el fragment con dos elementos  anidados, un h1 y un h2, estos son las props que vienen del padre a los hijos.
+* Cabe destacar que las props pueden ser varias en este caso el titulo y un subtitulo pero pueden ser otras etiquetas.
+
+Ahora en el componente padre tenemos que hacer  ajustes:
+
+1. importar el componente hijo.
+![[Pasted image 20251219115726.png]]
+
+2. Llamar al componente hijo que se rendizara, recordemos que 
