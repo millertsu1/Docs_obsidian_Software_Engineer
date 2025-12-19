@@ -19,3 +19,6 @@ También los componentes tienen unas caracteristicas asociadas, como:
  
 Notese que las etiquetas <h1> y <p> estan estan envueltos en la etiqueta <div>, esto nos indica que  todos los elementos deben estar anidados sobre un solo elemento en este caso un DIV, pero puede ser cualquier otro elemento que sea de apertura y cierre. En react podemos cambiar ese elemento que envuelve  a los demas, por una etiqueta vacia.<></>, entre estas podemos ahora anidar el resto de etiquetas.
 
+![[Pasted image 20251219103920.png]]
+
+
