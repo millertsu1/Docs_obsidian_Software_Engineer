@@ -6,6 +6,12 @@ Cabe aclarar que el proceso es un poco mas complejo que solo pedir y recibir, pe
 
 ## ¿Qué es la computación en la nube?
 
+```
+Definir la computación en la nube.
+Describir y diferenciar los tipos de implementación en la nube.
+```
+
+
 ![[Pasted image 20251220151629.png]]
 
 basicamente la computación en la nube es ufrecer un servicio de TI que el cliente paga de acuerdo al consumo del mismo. Los servicios en la nube por lo general implican servicios digitales  y estos ayudan que el cliente que pague por estos ahorre en dispositivos en muchos casos como los servidores.
@@ -29,4 +35,13 @@ Las anteriores implementaciones tienen sus ventajas y desventajas, que tocan asp
 
 ## Beneficios de la nube de AWS
 
-##
+```
+Describir los seis beneficios clave de la computación en la nube. 
+```
+
+![[Pasted image 20251220160239.png]]
+![[Pasted image 20251220160402.png]]
+![[Pasted image 20251220160420.png]]
+![[Pasted image 20251220160536.png]]
+![[Pasted image 20251220160604.png]]
+![[Pasted image 20251220160630.png]]
