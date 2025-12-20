@@ -6,4 +6,5 @@ Cabe aclarar que el proceso es un poco mas complejo que solo pedir y recibir, pe
 
 ## ¿Qué es la computación en la nube?
 
+![[Pasted image 20251220151629.png]]
 
