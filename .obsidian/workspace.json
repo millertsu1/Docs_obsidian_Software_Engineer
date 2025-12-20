@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,8 +237,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be9efdeae797ac81",
+  "active": "1b430710e5043625",
   "lastOpenFiles": [
+    "VirtualSpace/Roadmap_WebDev/Courses/AWS/Cloud Practitioner AWS.md",
     "Pasted image 20251220160630.png",
     "Pasted image 20251220160604.png",
     "Pasted image 20251220160536.png",
@@ -249,11 +250,9 @@
     "Pasted image 20251220154259.png",
     "Pasted image 20251220151629.png",
     "VirtualSpace/Roadmap_WebDev/Courses/React/Componentes 1.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/AWS/Cloud Practitioner AWS.md",
     "VirtualSpace/Roadmap_WebDev/Courses/AWS",
     "Excalidraw/Primeros pasos.md",
     "Pasted image 20251219122303.png",
-    "Pasted image 20251219115726.png",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
     "SQL - abstraccion y modelado de datos.md",
     "VirtualSpace/Roadmap_WebDev/Courses/English/All tenses.md",

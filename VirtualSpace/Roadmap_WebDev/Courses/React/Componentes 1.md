@@ -22,7 +22,7 @@ Notese que las etiquetas h1 y p, estan estan envueltos en la etiqueta div, esto 
 ![[Pasted image 20251219112958.png]]
 
 
-* Pueden recibir props (propiedades): Las props son objetos que contienen datos que un componente necesita para renderizarse correctamente. Y estas se envian de forma unidireccional de un *componente padre* a un *componente hijo*.
+* Pueden recibir **props (propiedades)**: Las props son objetos que contienen datos que un componente necesita para renderizarse correctamente. Y estas se envian de forma unidireccional de un *componente padre* a un *componente hijo*.
 
 Hemos creado un ejemplo creando un nuevo componente llamado **TituloPrincipal** este es el **componente hijo**, de acuerdo a lo anterior podemos entonces deducir que este componente tendra un parametro que sera las propias *props*. Y asi mismo renderizara la informacion  que nos pase el componente padre.
 
