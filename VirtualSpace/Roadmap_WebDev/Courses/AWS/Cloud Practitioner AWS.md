@@ -8,3 +8,25 @@ Cabe aclarar que el proceso es un poco mas complejo que solo pedir y recibir, pe
 
 ![[Pasted image 20251220151629.png]]
 
+basicamente la computación en la nube es ufrecer un servicio de TI que el cliente paga de acuerdo al consumo del mismo. Los servicios en la nube por lo general implican servicios digitales  y estos ayudan que el cliente que pague por estos ahorre en dispositivos en muchos casos como los servidores.
+![[Pasted image 20251220154259.png]]
+
+La implementacion se soluciones de TI, dependeran de muchos factores pero se pueden implementar de acuerdo a 3  formas de implementacion:
+
+1. En la nube (cloud)
+2. On-site
+3. Hibrida
+
+![[Pasted image 20251220154532.png]]
+
+* **La implementacion basada en la nube**, se refiere  a que el cliente migrar los recursos como las bases de datos por ejemplo a la nube** y desde alli implementa todo su ecosistema que se alojara alli.
+
+* **La implementacion en las instalaciones(On-site)**, se refiere a que usa sus propios recursos instalaciones, servidores, etc. Para brindar el servicio, asi puede monta la base de datos en sus propios servidores.
+
+* **La implementación Hibrida**, se refiere a que usa los recursos en la nube, pero tambien usas sus propios recursos. Para poder lograr estos debe tener un equipo del talento humano, para desarrollar las soluciones.
+
+Las anteriores implementaciones tienen sus ventajas y desventajas, que tocan aspectos  como los costos asociados, la seguridad, la disponibilidad y la complejidad de la implementación.
+
+## Beneficios de la nube de AWS
+
+##

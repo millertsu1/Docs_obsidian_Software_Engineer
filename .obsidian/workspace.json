@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "fcd366e178fe9808",
@@ -223,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,6 +239,8 @@
   },
   "active": "be9efdeae797ac81",
   "lastOpenFiles": [
+    "Pasted image 20251220154532.png",
+    "Pasted image 20251220154259.png",
     "Pasted image 20251220151629.png",
     "VirtualSpace/Roadmap_WebDev/Courses/React/Componentes 1.md",
     "VirtualSpace/Roadmap_WebDev/Courses/AWS/Cloud Practitioner AWS.md",
@@ -257,8 +257,6 @@
     "Pasted image 20251219111943.png",
     "Pasted image 20251219111904.png",
     "Pasted image 20251219103920.png",
-    "Pasted image 20251219103909.png",
-    "Pasted image 20251219103859.png",
     "VirtualSpace/Roadmap_WebDev/Courses/React",
     "VirtualSpace/Roadmap_WebDev/Courses/SQL",
     "VirtualSpace/Roadmap_WebDev/Courses/Docker/1. Docker pasos iniciales.md",
