@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCloudCog",
       "LiAtom",
       "LiImages",
       "LiFolder",
-      "LiEye",
-      "LiMountain"
+      "LiEye"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -103,5 +103,9 @@
   "VirtualSpace/Roadmap_WebDev/Courses/React": {
     "iconName": "LiAtom",
     "iconColor": "#177eee"
+  },
+  "VirtualSpace/Roadmap_WebDev/Courses/AWS": {
+    "iconName": "LiCloudCog",
+    "iconColor": "#16c313"
   }
 }
