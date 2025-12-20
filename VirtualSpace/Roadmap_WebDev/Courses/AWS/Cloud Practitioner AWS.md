@@ -46,7 +46,10 @@ Describir los seis beneficios clave de la computación en la nube.
 **Aprovechar economias de escalas masivas**: este beneficio se refiere a poder usary pagarpor tecnologias que muchas empresas grander que por capacidad  finaciera puede usar servicios y productos top de la industria, obteniendo los mismos beneficios.
 
 ![[Pasted image 20251220160536.png]]
-Las implementaciones On-site requieren de configuracion extra por parte del personal calificado para la configuración  de  servidores y herramientas, las conexiones relacionada, la seguridad y demas factores asociados a tener servicios propios. Al usar una implementación en la nube podemos agilizar estos procesos antes menciondado y m
+Las implementaciones On-site requieren de configuracion extra por parte del personal calificado para la configuración  de  servidores y herramientas, las conexiones relacionada, la seguridad y demas factores asociados a tener servicios propios. Al usar una implementación en la nube podemos agilizar estos procesos antes menciondado y escalar los servicios como pocas configuraciones asi el negocio escala de acuerdo a si se consume mas o menos.
 
 ![[Pasted image 20251220160604.png]]
+El comun denominador del uso de servicios en la nube, es pagar por el uso que se le da, como lo mencionamos anteriormente tener servicios On-site requieren mas recursos como montar nuestro propio data center, la mano de obra que hara mantenimiento.
+
 ![[Pasted image 20251220160630.png]]
+ Finalmente, pero no menos importante es que podemos **estar disponibles mundialmente en poco tiempo**, la disponibilidad de nuestros servicios o la información disponible ya no dependera de  donde nos ubiquemos, asi pues con AWS, podremos estar en todo el mundo.
