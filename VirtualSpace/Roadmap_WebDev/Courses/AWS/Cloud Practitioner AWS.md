@@ -40,8 +40,13 @@ Describir los seis beneficios clave de la computación en la nube.
 ```
 
 ![[Pasted image 20251220160239.png]]
+**Operar con gastos en lugar de gastos fijos**. esto le da flexibilidad  financiera de pagar un producto o servicio de acuerdo al uso que se le de al recurso, asi pues solo pagamos lo que usamos reduciendo costos asociados a la operacion, servicios y productos.
+
 ![[Pasted image 20251220160402.png]]
-![[Pasted image 20251220160420.png]]
+**Aprovechar economias de escalas masivas**: este beneficio se refiere a poder usary pagarpor tecnologias que muchas empresas grander que por capacidad  finaciera puede usar servicios y productos top de la industria, obteniendo los mismos beneficios.
+
 ![[Pasted image 20251220160536.png]]
+Las implementaciones On-site requieren de configuracion extra por parte del personal calificado para la configuración  de  servidores y herramientas, las conexiones relacionada, la seguridad y demas factores asociados a tener servicios propios. Al usar una implementación en la nube podemos agilizar estos procesos antes menciondado y m
+
 ![[Pasted image 20251220160604.png]]
 ![[Pasted image 20251220160630.png]]
