@@ -61,4 +61,16 @@ El comun denominador del uso de servicios en la nube, es pagar por el uso que se
 - Explicar los beneficios de la alta disponibilidad y la tolerancia a errores.
 ```
 
-Las zonas de disponibilidad son posiciones geograficas que estan 
+Las zonas de disponibilidad son posiciones geograficas que estan contienen centros de datos de alta disponibilidad y que funcionan como respaldo ante posibles problemas e una zona o region en particular. Esto permite que al ocurrir un fallo en otra zona  donde por ejemplo esta conectados mis servicios de AWS, yo pueda cambiarme de zona y seguir usando esos servicios sin problemas.
+
+Los beneficios asociados a la altadisponibilidad, significa que mis servicios siempre estaran funcionando sin problemas.
+
+Mientras que la tolerancia a errores, nos permite minimizar la cantidad de errores que pueda soportar mi operacion esto se convierte en  que casi nunca podremos experimentar un fallo en nuestros sistemas.
+
+## El modelo de responsabilidad compartida de AWS
+
+```
+- Describir y diferenciar entre las responsabilidades del cliente, las responsabilidades de AWS y las responsabilidades compartidas en la nube de AWS.
+    
+- Describir los componentes del modelo de responsabilidad compartida de AWS.
+```
