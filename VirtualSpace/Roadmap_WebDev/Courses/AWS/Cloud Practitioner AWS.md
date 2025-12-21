@@ -74,3 +74,13 @@ Mientras que la tolerancia a errores, nos permite minimizar la cantidad de error
     
 - Describir los componentes del modelo de responsabilidad compartida de AWS.
 ```
+
+### Componentes del modelo de responsabilidad compartida de AWS
+
+![[Pasted image 20251221111008.png]]
+
+## Aplicación de conceptos de la nube a casos de uso de la vida real
+
+```
+- Explicar cómo los conceptos básicos de la nube, como la infraestructura global de AWS y el modelo de responsabilidad compartida de AWS, funcionan en conjunto para crear soluciones empresariales reales.
+```
