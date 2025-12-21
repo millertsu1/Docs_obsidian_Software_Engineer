@@ -53,3 +53,12 @@ El comun denominador del uso de servicios en la nube, es pagar por el uso que se
 
 ![[Pasted image 20251220160630.png]]
  Finalmente, pero no menos importante es que podemos **estar disponibles mundialmente en poco tiempo**, la disponibilidad de nuestros servicios o la información disponible ya no dependera de  donde nos ubiquemos, asi pues con AWS, podremos estar en todo el mundo.
+
+## Introducción a la infraestructura global de AWS
+
+```
+- Definir las regiones y zonas de disponibilidad de AWS.
+- Explicar los beneficios de la alta disponibilidad y la tolerancia a errores.
+```
+
+Las zonas de disponibilidad son posiciones geograficas que estan 
