@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Courses/AWS/Cloud Practitioner AWS.md",
+                "file": "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Typescript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud Practitioner AWS"
+              "title": "Typescript"
             }
           },
           {
@@ -239,9 +239,9 @@
   },
   "active": "be9efdeae797ac81",
   "lastOpenFiles": [
+    "VirtualSpace/Roadmap_WebDev/Courses/AWS/Cloud Practitioner AWS.md",
     "Pasted image 20251221111008.png",
     "VirtualSpace/Roadmap_WebDev/Courses/React/Componentes 1.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/AWS/Cloud Practitioner AWS.md",
     "Pasted image 20251220160630.png",
     "Pasted image 20251220160604.png",
     "Pasted image 20251220160536.png",
@@ -253,7 +253,6 @@
     "Pasted image 20251220151629.png",
     "VirtualSpace/Roadmap_WebDev/Courses/AWS",
     "Excalidraw/Primeros pasos.md",
-    "Pasted image 20251219122303.png",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
     "SQL - abstraccion y modelado de datos.md",
     "VirtualSpace/Roadmap_WebDev/Courses/English/All tenses.md",
