@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCode",
       "LiCloudCog",
       "LiAtom",
       "LiImages",
-      "LiFolder",
-      "LiEye"
+      "LiFolder"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -107,5 +107,10 @@
   "VirtualSpace/Roadmap_WebDev/Courses/AWS": {
     "iconName": "LiCloudCog",
     "iconColor": "#16c313"
+  },
+  "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/clases en TypeScript/Clases en TypeScript.md": "LiCode",
+  "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/clases en TypeScript": {
+    "iconName": "LiFolder",
+    "iconColor": "#163dda"
   }
 }
