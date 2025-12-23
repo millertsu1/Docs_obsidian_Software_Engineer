@@ -64,6 +64,30 @@
             }
           },
           {
+            "id": "c749e20fb382ae10",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251208103714.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251208103714"
+            }
+          },
+          {
+            "id": "e70b3ac81ba02443",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-12-23 19.09.42.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-23 19.09.42.excalidraw"
+            }
+          },
+          {
             "id": "b2d41e1afda9f024",
             "type": "leaf",
             "state": {
@@ -92,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -236,7 +260,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,12 +276,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "547423f9cb3f19bd",
+  "active": "e70b3ac81ba02443",
   "lastOpenFiles": [
+    "Pasted Image 20251223190959_008.png",
+    "Pasted image 20251208103714.png",
+    "Excalidraw/Drawing 2025-12-23 19.09.42.excalidraw.md",
+    "Pasted image 20251119094704.png",
+    "Pasted image 20251105185656.png",
+    "Untitled.md",
+    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/clases en TypeScript/Clases en TypeScript.md",
     "Pasted image 20251223190523.png",
     "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/clases en TypeScript",
     "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Typescript.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/clases en TypeScript/Clases en TypeScript.md",
     "VirtualSpace/Roadmap_WebDev/Courses/AWS/Cloud Practitioner AWS.md",
     "Pasted image 20251221111008.png",
     "VirtualSpace/Roadmap_WebDev/Courses/React/Componentes 1.md",
@@ -265,10 +296,6 @@
     "Pasted image 20251220160536.png",
     "Pasted image 20251220160420.png",
     "Pasted image 20251220160402.png",
-    "Pasted image 20251220160239.png",
-    "Pasted image 20251220154532.png",
-    "Pasted image 20251220154259.png",
-    "Pasted image 20251220151629.png",
     "VirtualSpace/Roadmap_WebDev/Courses/AWS",
     "Excalidraw/Primeros pasos.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
@@ -294,8 +321,6 @@
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Como trabajar con un Repositorio Remoto de Django.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Cómo aprender a aprender.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/10 usos de la AI para aprender programacion.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/1. Microservicios.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases/clase1 dockerfile-docker Compose.md",
     "multimedia/Mide tu Éxito SEO Real_ Del _Creo que Vamos Bien_ a Métricas Claras con Looker Studio, GSC y GA4.mp3",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases",
