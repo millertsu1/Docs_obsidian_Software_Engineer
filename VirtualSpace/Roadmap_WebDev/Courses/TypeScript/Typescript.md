@@ -266,7 +266,7 @@ function checkAccess(userRole: "admin" | "guest", isActive: boolean) {
 
 - El tipo `boolean` solo puede ser `true` o `false`.
 
-- Es fundamental para la lógica condicional y el control de flujo.
+	- Es fundamental para la lógica condicional y el control de flujo.
 
 - Puedes declararlos explícitamente (`: boolean`) o dejar que TypeScript los infiera.
 
