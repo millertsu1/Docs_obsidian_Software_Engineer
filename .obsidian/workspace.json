@@ -53,14 +53,12 @@
             "id": "e70b3ac81ba02443",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/clases en TypeScript/Clases en TypeScript.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Definción de una clase.md"
               },
-              "icon": "lucide-file",
-              "title": "Clases en TypeScript"
+              "icon": "excalidraw-icon",
+              "title": "Definción de una clase"
             }
           },
           {
@@ -254,10 +252,10 @@
   },
   "active": "e70b3ac81ba02443",
   "lastOpenFiles": [
+    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/clases en TypeScript/Clases en TypeScript.md",
     "Pasted image 20251208103714.png",
     "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Typescript.md",
     "Excalidraw/Definción de una clase.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/clases en TypeScript/Clases en TypeScript.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Docker/1. Docker pasos iniciales.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Django/Django.md",
     "VirtualSpace/Roadmap_WebDev/Courses/English/All tenses.md",
