@@ -36,43 +36,17 @@
             }
           },
           {
-            "id": "be9efdeae797ac81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Typescript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Typescript"
-            }
-          },
-          {
-            "id": "e70b3ac81ba02443",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Definción de una clase.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Definción de una clase"
-            }
-          },
-          {
             "id": "b2d41e1afda9f024",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Courses/Docker/1. Docker pasos iniciales.md",
+                "file": "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/1. Typescript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Docker pasos iniciales"
+              "title": "1. Typescript"
             }
           },
           {
@@ -90,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,13 +224,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d0d5ce6b748e007",
+  "active": "c33cd5fd7baa9c41",
   "lastOpenFiles": [
+    "VirtualSpace/Roadmap_WebDev/Courses/Docker/1. Docker pasos iniciales.md",
+    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/1. Typescript.md",
     "Excalidraw/Definción de una clase.md",
     "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/clases en TypeScript/Clases en TypeScript.md",
     "Pasted image 20251208103714.png",
-    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Typescript.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/Docker/1. Docker pasos iniciales.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Django/Django.md",
     "VirtualSpace/Roadmap_WebDev/Courses/English/All tenses.md",
     "VirtualSpace/Roadmap_WebDev/Courses/React/Componentes 1.md",

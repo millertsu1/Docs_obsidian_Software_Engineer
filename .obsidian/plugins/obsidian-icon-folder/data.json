@@ -35,7 +35,6 @@
     "useInternalPlugins": false
   },
   "VirtualSpace/Roadmap_WebDev/Courses/Django/Django.md": "LiCode",
-  "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Typescript.md": "LiCode",
   "VirtualSpace/Roadmap_WebDev/Courses/Django": "LiFolder",
   "VirtualSpace/Roadmap_WebDev/Courses/TypeScript": "LiFolder",
   "VirtualSpace/Roadmap_WebDev/Courses": {
@@ -112,5 +111,9 @@
   "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/clases en TypeScript": {
     "iconName": "LiFolder",
     "iconColor": "#163dda"
+  },
+  "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/1. Typescript.md": {
+    "iconName": "LiImages",
+    "iconColor": "#ff0000"
   }
 }

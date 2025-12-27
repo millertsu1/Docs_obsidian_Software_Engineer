@@ -30,7 +30,7 @@ El camino mas seguro para poder iniciarse en el Desarrollo es conocer las bases,
 ### TypeScript lenguaje de tipado, para hacer mas segura nuestra web - En construcción
 
 1. [Curso básico de TypeScript desde Cero](https://docs.google.com/presentation/d/1m5HRJzak6AX4W1Oj0oPIvibWq0RQNFHHKCsUuHxSmlo/edit?usp=sharing)
-2. [[Typescript]]
+2. [[1. Typescript]]
 
 ### Python lenguaje para backend - En construcción
 
