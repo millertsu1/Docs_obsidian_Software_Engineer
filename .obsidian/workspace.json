@@ -50,6 +50,30 @@
             }
           },
           {
+            "id": "1655e83c0f596a3c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Definción de una clase.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Definción de una clase"
+            }
+          },
+          {
+            "id": "44b343ee29d6b7bb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-12-27 20.48.45.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-27 20.48.45.excalidraw"
+            }
+          },
+          {
             "id": "fbed791990a755ff",
             "type": "leaf",
             "state": {
@@ -64,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -224,12 +248,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c33cd5fd7baa9c41",
+  "active": "44b343ee29d6b7bb",
   "lastOpenFiles": [
-    "VirtualSpace/Roadmap_WebDev/Courses/Docker/1. Docker pasos iniciales.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/1. Typescript.md",
     "Excalidraw/Definción de una clase.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/clases en TypeScript/Clases en TypeScript.md",
+    "Excalidraw/Drawing 2025-12-27 20.48.45.excalidraw.md",
+    "Nueva sintaxis para definir clases en TypeScript.md",
+    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/1. Typescript.md",
+    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Clases en TypeScript.md",
+    "VirtualSpace/Roadmap_WebDev/Courses/Docker/1. Docker pasos iniciales.md",
     "Pasted image 20251208103714.png",
     "VirtualSpace/Roadmap_WebDev/Courses/Django/Django.md",
     "VirtualSpace/Roadmap_WebDev/Courses/English/All tenses.md",
@@ -239,7 +265,7 @@
     "Pasted image 20251105185656.png",
     "Untitled.md",
     "Pasted image 20251223190523.png",
-    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/clases en TypeScript",
+    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/2. clases en TypeScript",
     "VirtualSpace/Roadmap_WebDev/Courses/AWS/Cloud Practitioner AWS.md",
     "Pasted image 20251221111008.png",
     "Pasted image 20251220160630.png",
@@ -267,7 +293,6 @@
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Definición de prioridades, desarrollo web e inglés..md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Como trabajar con un Repositorio Remoto de Django.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Cómo aprender a aprender.md",
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/10 usos de la AI para aprender programacion.md",
     "multimedia/Mide tu Éxito SEO Real_ Del _Creo que Vamos Bien_ a Métricas Claras con Looker Studio, GSC y GA4.mp3",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases",
