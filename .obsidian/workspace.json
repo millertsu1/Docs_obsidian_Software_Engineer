@@ -79,16 +79,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL - abstraccion y modelado de datos.md",
+                "file": "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/1. Typescript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL - abstraccion y modelado de datos"
+              "title": "1. Typescript"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -248,12 +248,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "44b343ee29d6b7bb",
+  "active": "c33cd5fd7baa9c41",
   "lastOpenFiles": [
-    "Excalidraw/Definción de una clase.md",
-    "Excalidraw/Drawing 2025-12-27 20.48.45.excalidraw.md",
-    "Nueva sintaxis para definir clases en TypeScript.md",
+    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/3. Nueva sintaxis para definir clases en TypeScript.md",
     "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/1. Typescript.md",
+    "SQL - abstraccion y modelado de datos.md",
+    "Untitled 1.md",
+    "Excalidraw/Drawing 2025-12-27 20.48.45.excalidraw.md",
+    "Excalidraw/Definción de una clase.md",
     "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Clases en TypeScript.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Docker/1. Docker pasos iniciales.md",
     "Pasted image 20251208103714.png",
@@ -275,7 +277,6 @@
     "VirtualSpace/Roadmap_WebDev/Courses/AWS",
     "Excalidraw/Primeros pasos.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
-    "SQL - abstraccion y modelado de datos.md",
     "VirtualSpace/Roadmap_WebDev/Courses/React",
     "VirtualSpace/Roadmap_WebDev/Courses/SQL",
     "Untitled.base",
@@ -292,7 +293,6 @@
     "VirtualSpace/Roadmap_WebDev/Articles_programming/El Manual del Freelancer Principiante..md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Definición de prioridades, desarrollo web e inglés..md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Como trabajar con un Repositorio Remoto de Django.md",
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/Cómo aprender a aprender.md",
     "multimedia/Mide tu Éxito SEO Real_ Del _Creo que Vamos Bien_ a Métricas Claras con Looker Studio, GSC y GA4.mp3",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases",
