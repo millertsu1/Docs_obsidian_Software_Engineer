@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/1. Typescript.md",
+                "file": "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Typescript"
+              "title": "JavaScript camino a React"
             }
           }
         ],
@@ -248,10 +248,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c33cd5fd7baa9c41",
+  "active": "fbed791990a755ff",
   "lastOpenFiles": [
-    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/3. Nueva sintaxis para definir clases en TypeScript.md",
     "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/1. Typescript.md",
+    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/3. Nueva sintaxis para definir clases en TypeScript.md",
     "SQL - abstraccion y modelado de datos.md",
     "Untitled 1.md",
     "Excalidraw/Drawing 2025-12-27 20.48.45.excalidraw.md",
