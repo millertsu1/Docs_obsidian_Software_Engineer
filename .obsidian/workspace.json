@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "1b430710e5043625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Courses/React/Componentes 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Componentes 1"
-            }
-          },
-          {
             "id": "b2d41e1afda9f024",
             "type": "leaf",
             "state": {
@@ -62,18 +48,6 @@
             }
           },
           {
-            "id": "44b343ee29d6b7bb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-12-27 20.48.45.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-27 20.48.45.excalidraw"
-            }
-          },
-          {
             "id": "fbed791990a755ff",
             "type": "leaf",
             "state": {
@@ -88,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -232,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,37 +223,37 @@
   },
   "active": "fbed791990a755ff",
   "lastOpenFiles": [
-    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/1. Typescript.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/3. Nueva sintaxis para definir clases en TypeScript.md",
-    "SQL - abstraccion y modelado de datos.md",
-    "Untitled 1.md",
     "Excalidraw/Drawing 2025-12-27 20.48.45.excalidraw.md",
     "Excalidraw/Definción de una clase.md",
+    "VirtualSpace/Roadmap_WebDev/Courses/SQL/SQL - abstraccion y modelado de datos.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "multimedia/simple past pronunciation.png",
+    "multimedia/present simple structure.png",
+    "multimedia/Pasted Image 20251223190959_008.png",
+    "multimedia/Pasted image 20251223190523.png",
+    "multimedia/Pasted image 20251221111008.png",
+    "multimedia/Pasted image 20251220160630.png",
+    "multimedia/Pasted image 20251220160604.png",
+    "multimedia/Pasted image 20251220160536.png",
+    "multimedia/Pasted image 20251220160420.png",
+    "multimedia/Pasted image 20251220160402.png",
+    "VirtualSpace/Roadmap_WebDev/Courses/React/Componentes 1.md",
+    "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
+    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/1. Typescript.md",
+    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/3. Nueva sintaxis para definir clases en TypeScript.md",
     "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Clases en TypeScript.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Docker/1. Docker pasos iniciales.md",
-    "Pasted image 20251208103714.png",
     "VirtualSpace/Roadmap_WebDev/Courses/Django/Django.md",
     "VirtualSpace/Roadmap_WebDev/Courses/English/All tenses.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/React/Componentes 1.md",
-    "Pasted Image 20251223190959_008.png",
-    "Pasted image 20251119094704.png",
-    "Pasted image 20251105185656.png",
-    "Untitled.md",
-    "Pasted image 20251223190523.png",
     "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/2. clases en TypeScript",
     "VirtualSpace/Roadmap_WebDev/Courses/AWS/Cloud Practitioner AWS.md",
-    "Pasted image 20251221111008.png",
-    "Pasted image 20251220160630.png",
-    "Pasted image 20251220160604.png",
-    "Pasted image 20251220160536.png",
-    "Pasted image 20251220160420.png",
     "VirtualSpace/Roadmap_WebDev/Courses/AWS",
     "Excalidraw/Primeros pasos.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
     "VirtualSpace/Roadmap_WebDev/Courses/React",
     "VirtualSpace/Roadmap_WebDev/Courses/SQL",
     "Untitled.base",
-    "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
     "VirtualSpace/Roadmap_WebDev/Courses/English",
     "Untitled.canvas",
     "Excalidraw/Serializers sintaxis.md",
@@ -292,7 +265,6 @@
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Instructivo técnico control de Despliegues a Producción.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/El Manual del Freelancer Principiante..md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Definición de prioridades, desarrollo web e inglés..md",
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/Como trabajar con un Repositorio Remoto de Django.md",
     "multimedia/Mide tu Éxito SEO Real_ Del _Creo que Vamos Bien_ a Métricas Claras con Looker Studio, GSC y GA4.mp3",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases",

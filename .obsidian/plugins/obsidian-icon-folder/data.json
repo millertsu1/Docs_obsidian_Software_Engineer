@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFolder",
       "LiBook",
       "LiPen",
       "LiCode",
-      "LiCloudCog",
-      "LiAtom"
+      "LiCloudCog"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,8 +35,14 @@
     "useInternalPlugins": false
   },
   "VirtualSpace/Roadmap_WebDev/Courses/Django/Django.md": "LiCode",
-  "VirtualSpace/Roadmap_WebDev/Courses/Django": "LiFolder",
-  "VirtualSpace/Roadmap_WebDev/Courses/TypeScript": "LiFolder",
+  "VirtualSpace/Roadmap_WebDev/Courses/Django": {
+    "iconName": "LiFolder",
+    "iconColor": "#017e16"
+  },
+  "VirtualSpace/Roadmap_WebDev/Courses/TypeScript": {
+    "iconName": "LiFolder",
+    "iconColor": "#2514a9"
+  },
   "VirtualSpace/Roadmap_WebDev/Courses": {
     "iconName": "LiFolders",
     "iconColor": "#225f02"
@@ -82,7 +88,10 @@
   "VirtualSpace/Roadmap_WebDev/Articles_programming/medir clics en botones con GTM y GA4.md": "LiEye",
   "VirtualSpace/Roadmap_WebDev/Articles_programming/Instructivo técnico control de Despliegues a Producción.md": "LiEye",
   "VirtualSpace/Roadmap_WebDev/Articles_programming/Type Assertions (aserciones de tipo) en TS.md": "LiEye",
-  "VirtualSpace/Roadmap_WebDev/Courses/Docker": "LiFolder",
+  "VirtualSpace/Roadmap_WebDev/Courses/Docker": {
+    "iconName": "LiFolder",
+    "iconColor": "#033768"
+  },
   "VirtualSpace/Roadmap_WebDev/Articles_programming/Microservicios roadmap.md": "LiEye",
   "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado": "LiFolder",
   "VirtualSpace/Roadmap_WebDev/Articles_programming/Roadmap Fullstack Dev.md": "LiBone",
@@ -100,8 +109,8 @@
   },
   "VirtualSpace/Roadmap_WebDev/Courses/English": "LiFolder",
   "VirtualSpace/Roadmap_WebDev/Courses/React": {
-    "iconName": "LiAtom",
-    "iconColor": "#177eee"
+    "iconName": "LiFolder",
+    "iconColor": "#0490fb"
   },
   "VirtualSpace/Roadmap_WebDev/Courses/AWS": {
     "iconName": "LiCloudCog",
@@ -110,5 +119,6 @@
   "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/1. Typescript.md": "LiBook",
   "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/2. clases en TypeScript": "LiBook",
   "Excalidraw/Definción de una clase.md": "LiPen",
-  "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/3. Nueva sintaxis para definir clases en TypeScript.md": "LiBook"
+  "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/3. Nueva sintaxis para definir clases en TypeScript.md": "LiBook",
+  "VirtualSpace/Roadmap_WebDev/Courses/SQL": "LiFolder"
 }
