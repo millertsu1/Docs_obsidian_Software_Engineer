@@ -272,3 +272,9 @@ Las props son la abreviatura de propiedades, son la forma de comunicación entre
 
 - Por que `son reutilizables`, las props nos permiten crear componentes que se  pueden usar en multiples lugares con diferentes datos. por ejemplo en lugar de crear un botón  para cada color, podemos crear un componente `Button` y pasar el color por las `props`.
 - `Manejan un solo flujo de datos` como lo mencionamos anteriormente, las `props` fluyen en una sola dirección de arriba hacia abajo (del padre al hijo), así que en `React` es fácil entenderlo porque se puede manejar de esta forma.
+
+### 5. Asincronia
+
+La asincronia es como se trabaja en el mundo real, cada servicio espera a que otro funcione y entregue las respuestas, asi pues la asincronia es un pilar muy importante que aprender para poder entender React y las demas herramientas.
+
+

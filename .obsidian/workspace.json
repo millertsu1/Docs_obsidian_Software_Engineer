@@ -60,9 +60,21 @@
               "icon": "lucide-file",
               "title": "JavaScript camino a React"
             }
+          },
+          {
+            "id": "e29bbd9c3ba11d23",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-06 19.34.03.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-06 19.34.03.excalidraw"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "fcd366e178fe9808",
@@ -206,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,8 +235,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fbed791990a755ff",
+  "active": "e29bbd9c3ba11d23",
   "lastOpenFiles": [
+    "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
+    "Excalidraw/Drawing 2026-01-06 19.34.03.excalidraw.md",
     "Excalidraw/Drawing 2025-12-27 20.48.45.excalidraw.md",
     "Excalidraw/Definción de una clase.md",
     "VirtualSpace/Roadmap_WebDev/Courses/SQL/SQL - abstraccion y modelado de datos.md",
@@ -239,7 +255,6 @@
     "multimedia/Pasted image 20251220160420.png",
     "multimedia/Pasted image 20251220160402.png",
     "VirtualSpace/Roadmap_WebDev/Courses/React/Componentes 1.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
     "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/1. Typescript.md",
     "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/3. Nueva sintaxis para definir clases en TypeScript.md",
     "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Clases en TypeScript.md",
