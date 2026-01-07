@@ -277,4 +277,4 @@ Las props son la abreviatura de propiedades, son la forma de comunicación entre
 
 La asincronia es como se trabaja en el mundo real, cada servicio espera a que otro funcione y entregue las respuestas, asi pues la asincronia es un pilar muy importante que aprender para poder entender React y las demas herramientas.
 
-
+### [[Funcion  clasica asincrona]]
