@@ -35,8 +35,7 @@
               "title": "1. Typescript"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,13 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2d41e1afda9f024",
+  "active": "dbe723dcac331305",
   "lastOpenFiles": [
+    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/1. Typescript.md",
     "Excalidraw/Funcion  clasica asincrona.md",
     "Excalidraw/Definción de una clase.md",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/1. Typescript.md",
     "Excalidraw/Drawing 2025-12-27 20.48.45.excalidraw.md",
     "VirtualSpace/Roadmap_WebDev/Courses/SQL/SQL - abstraccion y modelado de datos.md",
     "Untitled 1.md",

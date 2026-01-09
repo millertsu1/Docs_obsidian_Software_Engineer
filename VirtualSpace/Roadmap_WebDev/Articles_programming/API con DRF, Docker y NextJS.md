@@ -9,6 +9,8 @@ Primero, configuramos el proyecto en tu máquina local, como lo harías normalme
 mkdir api-con-docker
 cd api-con-docker
 ```
+>*Esta información puede variar dependiendo de la forma en que queramos que se llame el proyecto.
+
 
 2. **Crea y activa un entorno virtual:**
 
