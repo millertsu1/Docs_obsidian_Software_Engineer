@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "d18b05ed80dc5bcf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-12 14.57.59.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-01-12 14.57.59.excalidraw"
+            }
+          },
+          {
             "id": "b2d41e1afda9f024",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "1. Typescript"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,13 +209,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dbe723dcac331305",
+  "active": "d18b05ed80dc5bcf",
   "lastOpenFiles": [
+    "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
+    "Excalidraw/Drawing 2026-01-12 14.57.59.excalidraw.md",
     "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/1. Typescript.md",
     "Excalidraw/Funcion  clasica asincrona.md",
     "Excalidraw/Definción de una clase.md",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
     "Excalidraw/Drawing 2025-12-27 20.48.45.excalidraw.md",
     "VirtualSpace/Roadmap_WebDev/Courses/SQL/SQL - abstraccion y modelado de datos.md",
     "Untitled 1.md",
@@ -240,7 +254,6 @@
     "VirtualSpace/Roadmap_WebDev/Articles_programming/medir clics en botones con GTM y GA4.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/Instructivo técnico control de Despliegues a Producción.md",
     "VirtualSpace/Roadmap_WebDev/Articles_programming/El Manual del Freelancer Principiante..md",
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/Definición de prioridades, desarrollo web e inglés..md",
     "multimedia/Mide tu Éxito SEO Real_ Del _Creo que Vamos Bien_ a Métricas Claras con Looker Studio, GSC y GA4.mp3",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases",
