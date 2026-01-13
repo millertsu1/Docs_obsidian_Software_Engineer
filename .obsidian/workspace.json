@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "148206e0045a76af",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
+          },
+          {
             "id": "b2d41e1afda9f024",
             "type": "leaf",
             "state": {
@@ -48,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d18b05ed80dc5bcf",
+  "active": "6f044f27fa4ee71c",
   "lastOpenFiles": [
     "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
     "Excalidraw/Paso a paso para crear un proyecto con Django y NextJS en Docker.md",
