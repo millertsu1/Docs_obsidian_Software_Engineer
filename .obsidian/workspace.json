@@ -1,68 +1,41 @@
 {
   "main": {
-    "id": "32554c6758288edf",
+    "id": "82d2c18859f70560",
     "type": "split",
     "children": [
       {
-        "id": "e173b94b84d5f1c2",
+        "id": "c276dff83062e45a",
         "type": "tabs",
         "children": [
           {
-            "id": "dbe723dcac331305",
+            "id": "d1d47ed9c940c597",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
+                "file": "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/1. Microservicios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API con DRF, Docker y NextJS"
-            }
-          },
-          {
-            "id": "d18b05ed80dc5bcf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Paso a paso para crear un proyecto con Django y NextJS en Docker.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Paso a paso para crear un proyecto con Django y NextJS en Docker"
-            }
-          },
-          {
-            "id": "b2d41e1afda9f024",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/1. Typescript.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Typescript"
+              "title": "1. Microservicios"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "62d4ffb871448a1d",
+    "id": "dee161d1003103e0",
     "type": "split",
     "children": [
       {
-        "id": "c7581819f24fe3fa",
+        "id": "4e8b6b2ad08155f8",
         "type": "tabs",
         "children": [
           {
-            "id": "c33cd5fd7baa9c41",
+            "id": "6b7189f524242c5e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -75,7 +48,7 @@
             }
           },
           {
-            "id": "7fea888a3fcd5eee",
+            "id": "99d1b2653e5429b5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -92,7 +65,7 @@
             }
           },
           {
-            "id": "4eabaf015ddd0187",
+            "id": "483c5d61ac3e35fe",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -105,24 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "fcd366e178fe9808",
+    "id": "f4400d2131237b23",
     "type": "split",
     "children": [
       {
-        "id": "b960a414ccf27dc6",
+        "id": "77e4f7477ad7fe24",
         "type": "tabs",
         "children": [
           {
-            "id": "3b770b4194e9191d",
+            "id": "440ccae081dbed77",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Articles_programming/Microservicios roadmap.md",
+                "file": "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/1. Microservicios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,31 +104,32 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Microservicios roadmap"
+              "title": "Backlinks for 1. Microservicios"
             }
           },
           {
-            "id": "72e76ee86af4c5f9",
+            "id": "53812419a7ffda57",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/1. Microservicios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 1. Microservicios"
             }
           },
           {
-            "id": "98ecd9f573a9387a",
+            "id": "40902fee164ef2ad",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
-                "showSearch": true,
+                "useHierarchy": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -164,32 +137,21 @@
             }
           },
           {
-            "id": "05c43705c6a6a697",
+            "id": "8ac7dd60fe71e484",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Articles_programming/Microservicios roadmap.md",
+                "file": "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/1. Microservicios.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Microservicios roadmap"
-            }
-          },
-          {
-            "id": "5b0fdf627b32909a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of 1. Microservicios"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,54 +171,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d18b05ed80dc5bcf",
+  "active": "d1d47ed9c940c597",
   "lastOpenFiles": [
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/API con DRF, Docker y NextJS.md",
-    "Excalidraw/Paso a paso para crear un proyecto con Django y NextJS en Docker.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/1. Typescript.md",
-    "Excalidraw/Funcion  clasica asincrona.md",
-    "Excalidraw/Definción de una clase.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
-    "Excalidraw/Drawing 2025-12-27 20.48.45.excalidraw.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/SQL/SQL - abstraccion y modelado de datos.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "multimedia/simple past pronunciation.png",
-    "multimedia/present simple structure.png",
-    "multimedia/Pasted Image 20251223190959_008.png",
-    "multimedia/Pasted image 20251223190523.png",
-    "multimedia/Pasted image 20251221111008.png",
-    "multimedia/Pasted image 20251220160630.png",
-    "multimedia/Pasted image 20251220160604.png",
-    "multimedia/Pasted image 20251220160536.png",
-    "multimedia/Pasted image 20251220160420.png",
-    "multimedia/Pasted image 20251220160402.png",
-    "VirtualSpace/Roadmap_WebDev/Courses/React/Componentes 1.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/3. Nueva sintaxis para definir clases en TypeScript.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/Clases en TypeScript.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/Docker/1. Docker pasos iniciales.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/Django/Django.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/English/All tenses.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/TypeScript/2. clases en TypeScript",
-    "VirtualSpace/Roadmap_WebDev/Courses/AWS/Cloud Practitioner AWS.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/AWS",
-    "Excalidraw/Primeros pasos.md",
-    "VirtualSpace/Roadmap_WebDev/Courses/React",
-    "VirtualSpace/Roadmap_WebDev/Courses/SQL",
-    "Untitled.base",
-    "VirtualSpace/Roadmap_WebDev/Courses/English",
-    "Untitled.canvas",
-    "Excalidraw/Serializers sintaxis.md",
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/Type Assertions (aserciones de tipo) en TS.md",
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/Roadmap Fullstack Dev.md",
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/Proyectos para practicar Django.md",
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/Microservicios roadmap.md",
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/medir clics en botones con GTM y GA4.md",
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/Instructivo técnico control de Despliegues a Producción.md",
-    "VirtualSpace/Roadmap_WebDev/Articles_programming/El Manual del Freelancer Principiante..md",
-    "multimedia/Mide tu Éxito SEO Real_ Del _Creo que Vamos Bien_ a Métricas Claras con Looker Studio, GSC y GA4.mp3",
-    "VirtualSpace/Roadmap_WebDev/Courses/JavaScript",
-    "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases",
-    "multimedia"
+    "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases/clase1 dockerfile-docker Compose.md"
   ]
 }
