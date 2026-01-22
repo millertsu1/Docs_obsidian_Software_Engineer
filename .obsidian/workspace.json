@@ -11,14 +11,12 @@
             "id": "d1d47ed9c940c597",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
-                "mode": "source",
-                "source": false
+                "file": "multimedia/Pasted image 20251219111904.png"
               },
-              "icon": "lucide-file",
-              "title": "JavaScript camino a React"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251219111904"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
+                "file": "multimedia/Pasted image 20251219111904.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for JavaScript camino a React"
+              "title": "Backlinks for Pasted image 20251219111904"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/1. Microservicios.md",
+                "file": "multimedia/Pasted image 20251219111904.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1. Microservicios"
+              "title": "Outgoing links from Pasted image 20251219111904"
             }
           },
           {
@@ -142,16 +140,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/1. Microservicios.md",
+                "file": "multimedia/Pasted image 20251219111904.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Microservicios"
+              "title": "Outline of Pasted image 20251219111904"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,7 +171,19 @@
   },
   "active": "d1d47ed9c940c597",
   "lastOpenFiles": [
+    "multimedia/Pasted image 20251219111943.png",
+    "multimedia/Pasted image 20251219112025.png",
+    "multimedia/Pasted image 20251219112958.png",
+    "multimedia/Pasted image 20251219115315.png",
+    "multimedia/Pasted image 20251219115726.png",
+    "multimedia/Pasted image 20251219122303.png",
+    "multimedia/Pasted image 20251220151629.png",
+    "multimedia/Pasted image 20251220154259.png",
+    "multimedia/Pasted image 20251220154532.png",
+    "multimedia/Pasted image 20251220160239.png",
+    "multimedia/Pasted image 20251220160402.png",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases/clase1 dockerfile-docker Compose.md",
+    "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/1. Microservicios.md"
   ]
 }
