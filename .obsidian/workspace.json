@@ -11,10 +11,14 @@
             "id": "7243d8ea0273c648",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "VirtualSpace/Projects/VetSaas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "VetSaas"
             }
           }
         ]
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "VirtualSpace/Projects/VetSaas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "VirtualSpace/Projects/VetSaas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -138,6 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "VirtualSpace/Projects/VetSaas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -145,9 +152,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "cd11302de3411f55",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -155,6 +172,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
