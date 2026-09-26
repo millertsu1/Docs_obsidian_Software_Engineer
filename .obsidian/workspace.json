@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c276dff83062e45a",
+        "id": "4be94241b05d941b",
         "type": "tabs",
         "children": [
           {
-            "id": "d1d47ed9c940c597",
+            "id": "7243d8ea0273c648",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "multimedia/Vistas en Django.png"
-              },
-              "icon": "lucide-image",
-              "title": "Vistas en Django"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -92,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "multimedia/Vistas en Django.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vistas en Django"
+              "title": "Backlinks"
             }
           },
           {
@@ -111,12 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "multimedia/Vistas en Django.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vistas en Django"
+              "title": "Outgoing links"
             }
           },
           {
@@ -140,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "multimedia/Vistas en Django.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vistas en Django"
+              "title": "Outline"
             }
           }
         ],
@@ -165,12 +162,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d1d47ed9c940c597",
+  "active": "7243d8ea0273c648",
   "lastOpenFiles": [
+    "multimedia/Vistas en Django.png",
+    "VirtualSpace/Projects/VetSaas.md",
+    "VirtualSpace/Projects",
     "multimedia/URLs del proyecto.png",
     "multimedia/URLs de la aplicacion.png",
     "multimedia/simple past pronunciation.png",
@@ -180,8 +179,6 @@
     "multimedia/pip list VS pip freeze.png",
     "multimedia/Pasted image 20251219111904.png",
     "multimedia/Pasted image 20251219111943.png",
-    "multimedia/Pasted image 20251219112025.png",
-    "multimedia/Pasted image 20251219112958.png",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases/clase1 dockerfile-docker Compose.md",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/1. Microservicios.md"
