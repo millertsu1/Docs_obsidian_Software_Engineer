@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "VetSaas"
             }
+          },
+          {
+            "id": "c432dc70b09bd258",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VirtualSpace/Projects/ColorGlamSaaS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ColorGlamSaaS"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +198,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7243d8ea0273c648",
+  "active": "6b7189f524242c5e",
   "lastOpenFiles": [
-    "multimedia/Vistas en Django.png",
     "VirtualSpace/Projects/VetSaas.md",
+    "VirtualSpace/Projects/ColorGlamSaaS.md",
+    "multimedia/Vistas en Django.png",
     "VirtualSpace/Projects",
     "multimedia/URLs del proyecto.png",
     "multimedia/URLs de la aplicacion.png",
