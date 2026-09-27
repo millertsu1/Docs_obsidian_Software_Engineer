@@ -5,15 +5,8 @@ Este documento detalla la arquitectura, el modelo de datos, la estructura multi-
 
 ## 1. Visión General del Proyecto
 
-  
-
 Plataforma SaaS *multi-tenant* diseñada para permitir a dueños de barberías y peluquerías gestionar su personal, agendas y turnos, mientras ofrece a los clientes finales un portal de agendamiento directo rápido y sin fricciones.
-
-  
-
 ## 2. Stack Tecnológico
-
-  
 
 | Capa | Tecnología Seleccionada | Justificación |
 
