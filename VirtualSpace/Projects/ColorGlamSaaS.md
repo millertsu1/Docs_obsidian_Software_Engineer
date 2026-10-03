@@ -22,11 +22,8 @@ Plataforma SaaS *multi-tenant* diseñada para permitir a dueños de barberías y
 
 | **Envío de Correos** | Resend API | Infraestructura confiable para correos transaccionales y de notificación. |
 
-  
-
 ## 3. Modelo de Datos (PostgreSQL / Supabase Schema)
 
-  
 
 ```sql
 
@@ -174,12 +171,10 @@ ALTER TABLE appointments ENABLE ROW LEVEL SECURITY;
 
 ```
 
-  
 
 ## 4. Fases de Desarrollo del MVP
 
   
-
 ```
 
 +-------------------------------------------------------------------+
@@ -216,14 +211,11 @@ ALTER TABLE appointments ENABLE ROW LEVEL SECURITY;
 
 ```
 
-  
 
 ### FASE 1: Autenticación & Onboarding Multi-paso (Wizard de Registro Trial)
 
-  
 
 El proceso de registro inicial para activar el período de prueba (*Trial*) utiliza un stepper wizard de 3 pasos basado en la siguiente estructura:
-
   
 
 ```
@@ -234,11 +226,8 @@ El proceso de registro inicial para activar el período de prueba (*Trial*) util
 
 ```
 
-  
-
 #### Detalle de los 3 Pasos del Formulario:
 
-  
 
 1. **Paso 1: Datos de la Peluquería (Negocio & Cuenta)**
 
@@ -249,7 +238,6 @@ El proceso de registro inicial para activar el período de prueba (*Trial*) util
    * Razón Social o Documento Fiscal (opcional).
 
   
-
 2. **Paso 2: Configuración de Sucursal / Sede**
 
    * Nombre de la primera sede (Ej. "Sede Principal", "Sucursal Poblado").
@@ -259,7 +247,6 @@ El proceso de registro inicial para activar el período de prueba (*Trial*) util
    * Generación automática del `slug` único para el portal público de reserva.
 
   
-
 3. **Paso 3: Servicios, Peluqueros y Precios (Cierre del Onboarding)**
 
    * **Servicios Base:** Formulario ágil para registrar al menos 1 servicio inicial (Nombre, Duración en minutos y Precio).
@@ -267,15 +254,11 @@ El proceso de registro inicial para activar el período de prueba (*Trial*) util
    * **Equipo de Peluqueros:** Registro de estilistas iniciales (hasta 3 peluqueros para el plan Starter) y asignación de sus horarios y días de atención.
 
   
-
 ---
-
-  
 
 ### FASE 2: Calendario y Portal de Reserva Pública
 
   
-
 #### 1. Panel Privado (Dueño y Estilistas):
 
 * **Vista Calendario:** Visualización multi-columna (Grid por estilista).
@@ -285,8 +268,6 @@ El proceso de registro inicial para activar el período de prueba (*Trial*) util
   * Control de solapamiento mediante validación previa en Backend/Database antes de insertar en `appointments`.
 
 * **Creación Manual:** Permite al administrador o estilista registrar turnos recibidos vía llamada o presenciales.
-
-  
 
 #### 2. Portal Público de Agendamiento (`/reserva/[slug-barberia]`):
 
@@ -305,15 +286,11 @@ El proceso de registro inicial para activar el período de prueba (*Trial*) util
   5. Confirmación en pantalla.
 
   
-
 ---
-
-  
 
 ### FASE 3: Sistema de Notificaciones Automatizadas
 
   
-
 #### 1. Confirmación Inmediata:
 
 * Disparo de evento vía Webhook o Supabase Function al crear la cita.
@@ -321,7 +298,6 @@ El proceso de registro inicial para activar el período de prueba (*Trial*) util
 * Envío de correo electrónico al cliente con los detalles de la reserva.
 
   
-
 #### 2. Recordatorios Automatizados (Cron Job):
 
 * **Frecuencias de disparo:** 24 horas antes y 3 horas antes del `start_time`.
@@ -334,15 +310,11 @@ El proceso de registro inicial para activar el período de prueba (*Trial*) util
 
   3. Ejecuta el envío de correo (vía Resend) y actualiza `notified_24h = true` o `notified_3h = true` para evitar duplicados.
 
-  
 
 ---
 
-  
-
 ## 5. Estrategia de Suscripciones y Estructura de Planes SaaS
 
-  
 
 ```
 
@@ -382,7 +354,6 @@ El proceso de registro inicial para activar el período de prueba (*Trial*) util
 
   * **Funcionalidades:** Onboarding asistido en 3 pasos, portal de agendamiento público, gestión de turnos manuales y recordatorios automatizados básicos.
 
-  
 
 * **Pro:**
 
@@ -410,23 +381,19 @@ El proceso de registro inicial para activar el período de prueba (*Trial*) util
 
 ## 6. Proyección Futura: Integración de Inteligencia Artificial (IA)
 
-  
 
 Para versiones posteriores al MVP, se prevé adaptar la arquitectura para soportar capacidades inteligentes que incrementen el valor retenido por el cliente:
 
-  
 
 1. **Agente/Bot de Agendamiento Conversacional (WhatsApp / Web Widget):**
 
    * Integración de un LLM capacitado para consultar disponibilidad de la base de datos en tiempo real y agendar turnos respondiendo a lenguaje natural (Ej. *"¿Tienes espacio el jueves en la tarde con Carlos?"*).
 
   
-
 2. **Optimización Inteligente de Huecos (Smart Scheduling):**
 
    * Algoritmos para sugerir horarios al cliente final que reduzcan tiempos muertos (*dead time*) entre cortes de cada estilista.
 
-  
 
 3. **Predicción de Inasistencias (No-Show Prediction):**
 
