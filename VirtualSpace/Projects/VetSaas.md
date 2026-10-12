@@ -105,3 +105,7 @@ Aquí están los pasos exactos para que el botón "Suscribirme a Pro/Premium" te
   load_dotenv solo lee el .env al arrancar, así que reinícialo para que tome el token:
   
   python manage.py runserver
+
+### secuencia de correos para planes(free trial)
+
+![[Pasted image 20261012201646.png]]
