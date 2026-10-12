@@ -15,6 +15,8 @@
 
 ***Sobre la visión de largo plazo que mencionas (propietario global con consentimiento de compartir historia entre clínicas), eso requeriría un modelo más profundo: separar el concepto de "persona/propietario" del de "paciente en una clínica", con campos de consentimiento GDPR. Es perfectamente viable pero es una feature separada que vale la pena planificar cuando el core esté estable.**
 
+***Sobre la visión de largo plazo que mencionas (propietario global con consentimiento de compartir historia entre clínicas), eso requeriría un modelo más profundo: separar el concepto de "persona/propietario" del de "paciente en una clínica", con campos de consentimiento GDPR. Es perfectamente viable pero es una feature separada que vale la pena planificar cuando el core esté estable.**
+
 
 ```html
 Investigar que metricas se pueden agregar al dashboard por ejemplo carnets por mes o historial clinicas por mes o pacientes nuevos en el mes.
