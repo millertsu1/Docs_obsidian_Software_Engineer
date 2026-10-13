@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VirtualSpace/Projects/VetSaas.md",
+                "file": "VirtualSpace/Projects/ColorGlamSaaS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VetSaas"
+              "title": "ColorGlamSaaS"
             }
           }
         ]
@@ -185,10 +185,11 @@
   },
   "active": "7243d8ea0273c648",
   "lastOpenFiles": [
+    "VirtualSpace/Projects/VetSaas.md",
+    "Pasted image 20261012201849.png",
     "Pasted image 20261012201646.png",
     "Pasted image 20261004020222.png",
     "VirtualSpace/Projects/ColorGlamSaaS.md",
-    "VirtualSpace/Projects/VetSaas.md",
     "multimedia/Vistas en Django.png",
     "VirtualSpace/Projects",
     "multimedia/URLs del proyecto.png",
@@ -197,8 +198,6 @@
     "multimedia/Serializers sintaxis.png",
     "multimedia/runserver command.png",
     "multimedia/Primeros pasos con Django.png",
-    "multimedia/pip list VS pip freeze.png",
-    "multimedia/Pasted image 20251219111904.png",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/Clases/clase1 dockerfile-docker Compose.md",
     "VirtualSpace/Roadmap_WebDev/Courses/JavaScript/JavaScript camino a React.md",
     "VirtualSpace/Roadmap_WebDev/Courses/Microservicios Aprendizaje Guiado/1. Microservicios.md"

@@ -108,4 +108,5 @@ Aquí están los pasos exactos para que el botón "Suscribirme a Pro/Premium" te
 
 ### secuencia de correos para planes(free trial)
 
-![[Pasted image 20261012201646.png]]
+
+![[Pasted image 20261012201849.png]]
