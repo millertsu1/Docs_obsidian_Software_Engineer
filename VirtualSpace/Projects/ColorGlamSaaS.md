@@ -14,7 +14,7 @@ Plataforma SaaS *multi-tenant* diseñada para permitir a dueños de barberías y
 
 | **Frontend** | Next.js (App Router) + Tailwind CSS + Shadcn UI | Desempeño optimizado para SEO/Web en el portal público y renderizado de componentes interactivos para el dashboard. |
 
-| **Backend & Base de Datos** | Supabase (PostgreSQL + Auth + Storage) | Acelera el desarrollo del MVP integrando autenticación, almacenamiento y motor relacional con Row Level Security (RLS). |
+| **Backend & Base de Datos** | Django (PostgreSQL + Auth + Storage) | Acelera el desarrollo del MVP integrando autenticación, almacenamiento y motor relacional con Row Level Security (RLS). |
 
 | **Calendario Interactivo** | FullCalendar / React Big Calendar | Visualización multi-columna por estilista y gestión dinámica de bloques de tiempo. |
 
@@ -22,157 +22,8 @@ Plataforma SaaS *multi-tenant* diseñada para permitir a dueños de barberías y
 
 | **Envío de Correos** | Resend API | Infraestructura confiable para correos transaccionales y de notificación. |
 
-## 3. Modelo de Datos (PostgreSQL / Supabase Schema)
 
-
-```sql
-
--- 1. Tenants (Sucursales / Barberías)
-
-CREATE TABLE tenants (
-
-    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
-
-    name VARCHAR(255) NOT NULL,
-
-    slug VARCHAR(100) UNIQUE NOT NULL,
-
-    phone VARCHAR(50),
-
-    address TEXT,
-
-    logo_url TEXT,
-
-    created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
-
-);
-
-  
-
--- 2. Perfiles de Usuarios (Admins y Estilistas)
-
-CREATE TYPE user_role AS ENUM ('admin', 'stylist');
-
-  
-
-CREATE TABLE profiles (
-
-    id UUID PRIMARY KEY REFERENCES auth.users(id) ON DELETE CASCADE,
-
-    tenant_id UUID REFERENCES tenants(id) ON DELETE CASCADE NOT NULL,
-
-    full_name VARCHAR(255) NOT NULL,
-
-    role user_role NOT NULL DEFAULT 'stylist',
-
-    phone VARCHAR(50),
-
-    is_active BOOLEAN DEFAULT TRUE,
-
-    created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
-
-);
-
-  
-
--- 3. Disponibilidad Semanal del Estilista
-
-CREATE TABLE stylist_schedules (
-
-    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
-
-    tenant_id UUID REFERENCES tenants(id) ON DELETE CASCADE NOT NULL,
-
-    stylist_id UUID REFERENCES profiles(id) ON DELETE CASCADE NOT NULL,
-
-    day_of_week INT NOT NULL CHECK (day_of_week BETWEEN 0 AND 6), -- 0: Domingo, 1: Lunes...
-
-    start_time TIME NOT NULL,
-
-    end_time TIME NOT NULL,
-
-    CONSTRAINT valid_schedule_time CHECK (end_time > start_time)
-
-);
-
-  
-
--- 4. Servicios
-
-CREATE TABLE services (
-
-    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
-
-    tenant_id UUID REFERENCES tenants(id) ON DELETE CASCADE NOT NULL,
-
-    name VARCHAR(150) NOT NULL,
-
-    duration_minutes INT NOT NULL, -- Ej: 30, 45, 60
-
-    price DECIMAL(10, 2) NOT NULL,
-
-    is_active BOOLEAN DEFAULT TRUE,
-
-    created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW()
-
-);
-
-  
-
--- 5. Citas / Turnos
-
-CREATE TYPE appointment_status AS ENUM ('confirmed', 'completed', 'cancelled');
-
-  
-
-CREATE TABLE appointments (
-
-    id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
-
-    tenant_id UUID REFERENCES tenants(id) ON DELETE CASCADE NOT NULL,
-
-    stylist_id UUID REFERENCES profiles(id) ON DELETE CASCADE NOT NULL,
-
-    service_id UUID REFERENCES services(id) ON DELETE CASCADE NOT NULL,
-
-    client_name VARCHAR(255) NOT NULL,
-
-    client_email VARCHAR(255) NOT NULL,
-
-    client_phone VARCHAR(50) NOT NULL,
-
-    start_time TIMESTAMP WITH TIME ZONE NOT NULL,
-
-    end_time TIMESTAMP WITH TIME ZONE NOT NULL,
-
-    status appointment_status DEFAULT 'confirmed',
-
-    notified_24h BOOLEAN DEFAULT FALSE,
-
-    notified_3h BOOLEAN DEFAULT FALSE,
-
-    created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
-
-    CONSTRAINT valid_appointment_time CHECK (end_time > start_time)
-
-);
-
-  
-
--- Habilitar Row Level Security (RLS)
-
-ALTER TABLE tenants ENABLE ROW LEVEL SECURITY;
-
-ALTER TABLE profiles ENABLE ROW LEVEL SECURITY;
-
-ALTER TABLE services ENABLE ROW LEVEL SECURITY;
-
-ALTER TABLE appointments ENABLE ROW LEVEL SECURITY;
-
-```
-
-
-## 4. Fases de Desarrollo del MVP
+## 3. Fases de Desarrollo del MVP
 
   
 ```
@@ -313,7 +164,7 @@ El proceso de registro inicial para activar el período de prueba (*Trial*) util
 
 ---
 
-## 5. Estrategia de Suscripciones y Estructura de Planes SaaS
+## 4. Estrategia de Suscripciones y Estructura de Planes SaaS
 
 
 ```
@@ -379,7 +230,7 @@ El proceso de registro inicial para activar el período de prueba (*Trial*) util
 
   
 
-## 6. Proyección Futura: Integración de Inteligencia Artificial (IA)
+## 5. Proyección Futura: Integración de Inteligencia Artificial (IA)
 
 
 Para versiones posteriores al MVP, se prevé adaptar la arquitectura para soportar capacidades inteligentes que incrementen el valor retenido por el cliente:
@@ -398,3 +249,33 @@ Para versiones posteriores al MVP, se prevé adaptar la arquitectura para soport
 3. **Predicción de Inasistencias (No-Show Prediction):**
 
    * Análisis de historial de clientes para identificar perfiles con alta probabilidad de cancelación o inasistencia, activando solicitudes de confirmación anticipada.
+
+## 6. Estructura de Planes Sugerida
+
+| **Característica / Módulo**   | **BASIC (Ideal para independientes o salones pequeños)** | **PRO (Salones en crecimiento)**                     | **PREMIUM (Cadenas o salones consolidados)**                       |
+| ----------------------------- | -------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------ |
+| **Sedes**                     | 1 sede                                                   | 2 sedes                                              | Hasta 5 sedes (extensible)                                         |
+| **Empleados**                 | 5 (incluye Owner)                                        | 10 empleados                                         | 20 empleados / Ilimitados                                          |
+| **Servicios**                 | 10 servicios                                             | 30 servicios                                         | Ilimitados                                                         |
+| **Agenda y Citas Online**     | Incluido                                                 | Incluido                                             | Incluido                                                           |
+| **Recordatorios de Citas**    | Solo Email                                               | WhatsApp Estándar (Plantilla/Plantillas programadas) | WhatsApp con IA interactiva                                        |
+| **CRM / Ficha de Clientes**   | Datos básicos                                            | Historial de servicios + Notas                       | Ficha completa + Fotos Antes/Después + Fórmulas de Tinte           |
+| **Módulo de Productos / POS** | ❌ No incluido                                            | Venta básica de productos + Control de stock         | Venta + Inventario de uso interno + Comisiones por venta           |
+| **Finanzas y Caja**           | Registro simple de ingresos                              | Cierre de caja diario + Reportes básicos             | Métricas avanzadas, comisión por estilista y cobro de señas online |
+| **Agendamiento con IA**       | ❌ No incluido                                            | ❌ No incluido                                        | **Agente IA en WhatsApp / Web (Agendamiento 24/7)**                |
+| **Fidelización y Marketing**  | ❌ No incluido                                            | Mensajes de Cumpleaños                               | Programa de Puntos + Campañas masivas de promoción                 |
+## Hoja de ruta recomendada
+
+Para no abrumarte construyendo todo al mismo tiempo, implementa estas funciones de manera progresiva según el impacto en tus clientes:
+
+1. **Fase 1: Punto de Venta (POS) e Inventario Básico**
+    
+    - _Por qué:_ Es una necesidad inmediata para los salones (muchos ganan entre el 20% y 30% vendiendo champús, ceras, etc.). Agrega valor directo al plan **Pro**.
+        
+2. **Fase 2: Pagos Online con Señas y Cierre de Caja**
+    
+    - _Por qué:_ Resuelve el problema número 1 de las peluquerías: el cliente que reserva y no llega (_no-show_).
+        
+3. **Fase 3: Integración de IA para Agendamiento**
+    
+    - _Por qué:_ Es el gran diferenciador de venta para el plan **Premium**. Le permite al dueño del salón delegar completamente la atención al cliente por WhatsApp.
